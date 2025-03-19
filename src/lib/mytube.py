@@ -1,6 +1,7 @@
 from yt_dlp import YoutubeDL
 import requests
 import re
+import os
 from .mylog import setup_logger
 
 # 設定 logger
@@ -81,4 +82,41 @@ def download_subtitle(video_id, preferred_langs):
                 last_text = line_text
 
     return subtitle_text, formatted_date
+
+def download_video_file(video_id):
+    """
+    下載 YouTube 影片檔案
+    Args:
+        video_id (str): YouTube 影片 ID
+    Returns:
+        str: 影片檔案路徑，失敗則返回空字串
+    """
+    # 設定下載選項
+    video_opts = {
+        'format': 'bestvideo[ext=webm]+bestaudio[ext=webm]/best[ext=webm]/best',  # 優先選擇 webm 格式
+        'outtmpl': '%(id)s.%(ext)s',  # 輸出檔案名稱格式
+        'quiet': True
+    }
+
+    try:
+        # 確保影片目錄存在
+        video_dir = os.path.dirname(os.path.abspath(__file__)) + '/../../video/'
+        os.makedirs(video_dir, exist_ok=True)
+
+        # 設定完整的輸出路徑
+        video_opts['outtmpl'] = os.path.join(video_dir, video_opts['outtmpl'])
+        
+        video_url = f"https://www.youtube.com/watch?v={video_id}"
+        
+        with YoutubeDL(video_opts) as ydl:
+            ydl.download([video_url])
+            
+        output_file = os.path.join(video_dir, f"{video_id}.webm")
+        logger.info(f"影片下載完成：{output_file}")
+        return output_file
+        
+    except Exception as e:
+        logger.error(f"影片下載失敗 {video_id}: {str(e)}")
+        return ""
+
 

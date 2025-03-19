@@ -3,7 +3,7 @@ import pandas as pd
 from yt_dlp import YoutubeDL
 
 # === 設定頻道網址 ===
-channel_url = 'https://www.youtube.com/@HungyiLeeNTU/videos'
+channel_url = 'https://www.youtube.com/@BonnieBlockchain/videos'
 
 # === 設定 CSV 檔案名稱 ===
 csv_file = 'video_list.csv'
