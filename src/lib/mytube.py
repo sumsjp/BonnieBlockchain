@@ -135,7 +135,7 @@ def convert_script(video_file, output_file):
         
         # 執行轉換
         logger.info(f"開始轉換影片：{video_file}")
-            result = model.transcribe(
+        result = model.transcribe(
             video_file,
             # language="zh",
                 task="transcribe",
