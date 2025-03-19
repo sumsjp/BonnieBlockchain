@@ -10,7 +10,7 @@ import time
 import ssl
 from datetime import datetime
 
-from lib.mytube import download_subtitle, download_video_file, get_video_list
+from lib.mytube import get_video_list, download_video_file, convert_script
 from lib.myai import get_summary
 from lib.mylog import setup_logger
 from verify_chinese import detect_chinese
@@ -20,8 +20,8 @@ logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
-video_dir = os.path.join(base_dir, 'video/')  # Changed from audio_dir
-subtitle_dir = os.path.join(base_dir, 'subtitle/')
+video_dir = os.path.join(base_dir, 'src/video/')  # Changed from audio_dir
+subtitle_dir = os.path.join(base_dir, 'src/subtitle/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
@@ -129,6 +129,38 @@ def download_video(df):  # Changed from download_audio
             exit(0)
           
     return df
+
+def convert_subtitle():
+    # 確保 summary 目錄存在
+    os.makedirs(subtitle_dir, exist_ok=True)
+    
+    # 取得所有 subtitle 目錄下的 txt 檔案
+    video_files = [f for f in os.listdir(video_dir) if f.endswith('.webm')]
+    
+    # 計數器
+    processed_count = 0
+    
+    for video_file in video_files:
+        # 取得檔名（不含副檔名）
+        fname = os.path.splitext(video_file)[0]
+        
+        # 檢查對應的 summary 檔案是否存在
+        script_path = f"{summary_dir}{fname}.txt"
+        video_path = f"{video_dir}{video_file}"
+        
+        if not os.path.exists(script_path):
+            try:
+                convert_script(video_path, script_path)
+                processed_count += 1
+                
+            except Exception as e:
+                logger.error(f"字幕產生失敗 {fname}: {str(e)}")
+                continue
+    
+    if processed_count > 0:
+        logger.info(f"完成 {processed_count} 個檔案的字幕")
+    else:
+        logger.info("沒有需要處理的檔案")
 
 def summerize_script():
     # 確保 summary 目錄存在
@@ -385,7 +417,8 @@ def email_notify(new_df):
 if __name__ == '__main__':
     logger.info("開始執行更新程序")
     df, new_df = update_list()
-    download_video(df)  # Changed from download_audio
+    # download_video(df)  # Changed from download_audio
+    convert_subtitle()
     # summerize_script()
     # create_doc(df)
     # email_notify(new_df)

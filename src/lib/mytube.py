@@ -2,6 +2,7 @@ from yt_dlp import YoutubeDL
 import requests
 import re
 import os
+import whisper
 from .mylog import setup_logger
 
 # 設定 logger
@@ -93,14 +94,14 @@ def download_video_file(video_id):
     """
     # 設定下載選項
     video_opts = {
-        'format': 'bestvideo[ext=webm]+bestaudio[ext=webm]/best[ext=webm]/best',  # 優先選擇 webm 格式
+        'format': 'bestaudio[ext=webm]/bestaudio/best',  # 優先選擇 webm 格式
         'outtmpl': '%(id)s.%(ext)s',  # 輸出檔案名稱格式
         'quiet': True
     }
 
     try:
         # 確保影片目錄存在
-        video_dir = os.path.dirname(os.path.abspath(__file__)) + '/../../video/'
+        video_dir = os.path.dirname(os.path.abspath(__file__)) + '/../video/'
         os.makedirs(video_dir, exist_ok=True)
 
         # 設定完整的輸出路徑
@@ -117,6 +118,39 @@ def download_video_file(video_id):
         
     except Exception as e:
         logger.error(f"影片下載失敗 {video_id}: {str(e)}")
+        return ""
+
+def convert_script(video_file, output_file):
+    """
+    使用 Whisper 將影片檔案轉換為文字稿
+    Args:
+        video_file (str): 影片檔案路徑
+        output_file (str): 輸出檔案路徑
+    Returns:
+        str: 轉換後的文字稿檔案路徑，失敗則返回空字串
+    """
+    try:
+        # 載入 Whisper 模型 (第一次會下載模型)
+        model = whisper.load_model("base")
+        
+        # 執行轉換，指定語言和其他選項
+        logger.info(f"開始轉換影片：{video_file}")
+        result = model.transcribe(
+            video_file,
+            language="zh",           # 指定語言為中文
+            task="transcribe",       # 可選 "transcribe" 或 "translate"
+            initial_prompt="以下是一段中文演講"  # 可選的提示詞
+        )
+        
+        # 儲存文字稿
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(result["text"])
+            
+        logger.info(f"文字稿已儲存：{output_file}")
+        return output_file
+        
+    except Exception as e:
+        logger.error(f"轉換失敗 {video_file}: {str(e)}")
         return ""
 
 
