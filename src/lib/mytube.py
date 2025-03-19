@@ -137,9 +137,8 @@ def convert_script(video_file, output_file):
         logger.info(f"開始轉換影片：{video_file}")
         result = model.transcribe(
             video_file,
-            language="zh",
+            # language="zh",
             task="transcribe",
-            initial_prompt="以下是一段中文演講",
             fp16=(device == "cuda")  # 只在 GPU 上使用 FP16
         )
         
