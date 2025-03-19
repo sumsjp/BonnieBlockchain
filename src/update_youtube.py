@@ -10,7 +10,7 @@ import time
 import ssl
 from datetime import datetime
 
-from lib.mytube import download_subtitle, get_video_list
+from lib.mytube import download_subtitle, download_video_file, get_video_list
 from lib.myai import get_summary
 from lib.mylog import setup_logger
 from verify_chinese import detect_chinese
@@ -20,6 +20,7 @@ logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
 base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
+video_dir = os.path.join(base_dir, 'video/')  # Changed from audio_dir
 subtitle_dir = os.path.join(base_dir, 'subtitle/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
@@ -27,7 +28,7 @@ readme_file = os.path.join(base_dir, 'README.md')
 csv_file = os.path.join(base_dir, 'src/video_list.csv')
 
 # === 設定頻道網址 ===
-channel_url = 'https://www.youtube.com/@HungyiLeeNTU/videos'
+channel_url = 'https://www.youtube.com/@BonnieBlockchain/videos'
 
 # === 載入環境變數 ===
 load_result = load_dotenv()
@@ -94,28 +95,16 @@ def update_list():
         return existing_df, new_df
 
 
-def download_script(df):
-    # 確保 script_dir 存在
-    os.makedirs(subtitle_dir, exist_ok=True)
-    
-    # 讀取黑名單
-    black_list_file = os.path.join(base_dir, 'src/black_list.csv')
-    try:
-        black_df = pd.read_csv(black_list_file)
-    except FileNotFoundError:
-        black_df = pd.DataFrame(columns=['idx', 'id', 'url'])
-    
+def download_video(df):  # Changed from download_audio
+    # 確保 video_dir 存在
+    os.makedirs(video_dir, exist_ok=True)
+        
     # 計數器
     download_count = 0
-    max_downloads = 3
-    
-    # 優先字幕語言列表
-    preferred_langs = ['zh-TW', 'en']
+    max_downloads = 2
     
     # 從最後一筆往前處理
-    lst = df.index
-    if random.random() < 0.5:
-        lst = reversed(lst)
+    lst = reversed(df.index)
     for idx in lst:
         if download_count >= max_downloads:
             logger.info(f"已達到最大下載數量 ({max_downloads})")
@@ -123,52 +112,22 @@ def download_script(df):
             
         video_id = df.loc[idx, 'id']
         
-        # 檢查是否在黑名單中
-        if video_id in black_df['id'].values:
-            # logger.warning(f"跳過黑名單影片：{idx}:{video_id}")
-            continue
-        
-        script_file = f"{subtitle_dir}/{video_id}.txt"
+        video_file = f"{video_dir}/{video_id}.webm"  # Changed from audio_file and .mp3
         
         # 檢查檔案是否已存在
-        if os.path.exists(script_file):
-            # logger.info(f"跳過已存在的字幕：{idx}:{video_id}")
+        if os.path.exists(video_file):
             continue
             
-        logger.info(f"下載字幕中：{idx}:{video_id}")
+        logger.info(f"下載影片中：{idx}:{video_id}")  # Changed message
         success = False
         try:
-            subtitle_text, formatted_date = download_subtitle(video_id, preferred_langs)
-
-            # 存成字幕檔
-            if subtitle_text:
-                with open(script_file, 'w', encoding='utf-8') as f:
-                    f.write(subtitle_text)
-                logger.info(f"字幕已儲存為：{script_file}") 
-                download_count += 1
-            
-                # 更新 DataFrame 中的 upload_date
-                if formatted_date:
-                    df.loc[idx, 'date'] = formatted_date
-                    # 更新 CSV 檔案
-                    df.to_csv(csv_file, index=False)
-                success = True                                                   
+            download_video_file(video_id)  # Changed from download_audio_file
+            download_count += 1
+            success = True                                                   
         except Exception as e:
             logger.error(f"下載失敗 {idx}:{video_id}: {str(e)}")
-        
-        if not success:
-            # 加入黑名單
-            new_black = pd.DataFrame([{
-                'idx': idx,
-                'id': video_id,
-                'url': f"https://www.youtube.com/watch?v={video_id}"
-            }])
-            black_df = pd.concat([black_df, new_black], ignore_index=True)
-            # 儲存黑名單
-            black_df.to_csv(black_list_file, index=False)
-            logger.warning(f"已加入黑名單：{idx}:{video_id}")
-            continue
-   
+            exit(0)
+          
     return df
 
 def summerize_script():
@@ -426,8 +385,8 @@ def email_notify(new_df):
 if __name__ == '__main__':
     logger.info("開始執行更新程序")
     df, new_df = update_list()
-    download_script(df)
-    summerize_script()
-    create_doc(df)
+    download_video(df)  # Changed from download_audio
+    # summerize_script()
+    # create_doc(df)
     # email_notify(new_df)
     logger.info("更新程序完成")
