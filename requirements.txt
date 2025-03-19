@@ -5,4 +5,4 @@ markdown
 zhconv
 requests
 openai
-whisper
+openai-whisper  # 改為 openai-whisper
