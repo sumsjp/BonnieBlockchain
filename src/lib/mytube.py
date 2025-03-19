@@ -3,6 +3,7 @@ import requests
 import re
 import os
 import whisper
+import torch
 from .mylog import setup_logger
 
 # 設定 logger
@@ -123,23 +124,23 @@ def download_video_file(video_id):
 def convert_script(video_file, output_file):
     """
     使用 Whisper 將影片檔案轉換為文字稿
-    Args:
-        video_file (str): 影片檔案路徑
-        output_file (str): 輸出檔案路徑
-    Returns:
-        str: 轉換後的文字稿檔案路徑，失敗則返回空字串
     """
     try:
-        # 載入 Whisper 模型 (第一次會下載模型)
-        model = whisper.load_model("base")
+        # 檢查 CUDA 是否可用
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        logger.info(f"使用設備: {device}")
         
-        # 執行轉換，指定語言和其他選項
+        # 載入 Whisper 模型
+        model = whisper.load_model("medium").to(device)
+        
+        # 執行轉換
         logger.info(f"開始轉換影片：{video_file}")
         result = model.transcribe(
             video_file,
-            language="zh",           # 指定語言為中文
-            task="transcribe",       # 可選 "transcribe" 或 "translate"
-            initial_prompt="以下是一段中文演講"  # 可選的提示詞
+            language="zh",
+            task="transcribe",
+            initial_prompt="以下是一段中文演講",
+            fp16=(device == "cuda")  # 只在 GPU 上使用 FP16
         )
         
         # 儲存文字稿
