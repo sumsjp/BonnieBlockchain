@@ -5,3 +5,4 @@ markdown
 zhconv
 requests
 openai
+whisper
