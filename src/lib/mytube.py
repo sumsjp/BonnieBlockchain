@@ -4,28 +4,10 @@ import re
 import os
 import whisper
 import torch
-import time
-from datetime import datetime, timedelta
-from torchaudio import load as load_audio
-import numpy as np
 from .mylog import setup_logger
 
 # 設定 logger
 logger = setup_logger('youtube_update')
-
-def get_audio_duration(file_path):
-    """獲取音訊檔案長度（秒）"""
-    try:
-        # 使用 torchaudio 讀取音訊長度
-        waveform, sample_rate = load_audio(file_path)
-        duration = waveform.shape[1] / sample_rate
-        return duration
-    except Exception:
-        return None
-
-def format_time(seconds):
-    """格式化時間"""
-    return str(timedelta(seconds=int(seconds)))
 
 def get_video_list(channel_url):
     """
@@ -148,74 +130,23 @@ def convert_script(video_file, output_file):
         device = "cuda" if torch.cuda.is_available() else "cpu"
         logger.info(f"使用設備: {device}")
         
-        # 獲取音訊長度
-        duration = get_audio_duration(video_file)
-        if duration:
-            logger.info(f"音訊長度: {format_time(duration)}")
-        
         # 載入 Whisper 模型
         model = whisper.load_model("medium").to(device)
         
-        # 記錄開始時間
-        start_time = time.time()
-        last_update = start_time
-        update_interval = 10  # 每10秒更新一次進度
-        
-        def progress_callback(current_segment):
-            nonlocal last_update
-            current_time = time.time()
-            
-            # 每 update_interval 秒更新一次進度
-            if current_time - last_update >= update_interval:
-                elapsed = current_time - start_time
-                if duration:
-                    # 估算進度
-                    progress = min(100, (current_segment * 30 / duration) * 100)  # 30秒為每個segment的估算長度
-                    remaining = (elapsed / progress) * (100 - progress) if progress > 0 else 0
-                    
-                    logger.info(f"進度: {progress:.1f}% | 已用時間: {format_time(elapsed)} | "
-                              f"預估剩餘: {format_time(remaining)}")
-                else:
-                    # 如果無法獲取總長度，只顯示已處理的segment數
-                    logger.info(f"已處理 {current_segment} 個片段 | 已用時間: {format_time(elapsed)}")
-                
-                last_update = current_time
-        
         # 執行轉換
         logger.info(f"開始轉換影片：{video_file}")
-        
-        segments = []
-        segment_count = 0
-        
-        def decode_with_progress(audio):
-            nonlocal segment_count
             result = model.transcribe(
-                audio,
+            video_file,
+            # language="zh",
                 task="transcribe",
-                fp16=(device == "cuda")
+            fp16=(device == "cuda")  # 只在 GPU 上使用 FP16
             )
             
-            # 從結果中獲取片段
-            for segment in result["segments"]:
-                segments.append(segment)
-                segment_count += 1
-                progress_callback(segment_count)
-            return segments
-        
-        result = decode_with_progress(video_file)
-        
-        # 合併所有文字
-        full_text = " ".join(segment["text"] for segment in segments)
-        
         # 儲存文字稿
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(full_text)
+            f.write(result["text"])
         
-        # 顯示完成資訊
-        total_time = time.time() - start_time
-        logger.info(f"轉換完成！總用時: {format_time(total_time)}")
         logger.info(f"文字稿已儲存：{output_file}")
-        
         return output_file
         
     except Exception as e:
