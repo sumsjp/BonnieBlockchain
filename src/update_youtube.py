@@ -145,7 +145,7 @@ def convert_subtitle():
         fname = os.path.splitext(video_file)[0]
         
         # 檢查對應的 summary 檔案是否存在
-        script_path = f"{summary_dir}{fname}.txt"
+        script_path = f"{subtitle_dir}{fname}.txt"
         video_path = f"{video_dir}{video_file}"
         
         if not os.path.exists(script_path):
