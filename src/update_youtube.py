@@ -417,7 +417,7 @@ def email_notify(new_df):
 if __name__ == '__main__':
     logger.info("開始執行更新程序")
     df, new_df = update_list()
-    # download_video(df)  # Changed from download_audio
+    download_video(df)  # Changed from download_audio
     convert_subtitle()
     # summerize_script()
     # create_doc(df)
