@@ -7,7 +7,6 @@ from email.mime.multipart import MIMEMultipart
 import markdown
 import time
 import ssl
-import re
 
 from lib.mytube import get_video_list, download_video_file, convert_script, get_upload_date
 from lib.myai import get_summary
@@ -328,14 +327,11 @@ def make_doc(filename: str, video_list: list, reverse):
                     with open(summary_path, 'r', encoding='utf-8') as sf:
                         summary_content = sf.read()
                 
-                # Remove text enclosed in 【】from title
-                title = re.sub(r'【[^】]*】', '', video['title']).strip()             
-
                 # 填入模板
                 content = details_template.format(
                     idx=video['idx'],
                     date=date_str,
-                    title=title,
+                    title=video['title'],
                     id=id,
                     summary_file=summary_content
                 )
