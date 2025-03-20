@@ -28,6 +28,7 @@ readme_file = os.path.join(base_dir, 'README.md')
 
 # under src_dir
 subtitle_dir = os.path.join(src_dir, 'subtitle/')
+translate_dir = os.path.join(src_dir, 'translate/')
 video_dir = os.path.join(base_dir, 'video_dir/')
 csv_file = os.path.join(src_dir, 'video_list.csv')
 
@@ -43,7 +44,7 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # logger.info(f"email={sender_email}, password={sender_password}")
 
-receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 # receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
@@ -297,6 +298,7 @@ def make_doc(filename: str, video_list: list, reverse):
 # {title}
 
 {summary_file}
+{transcript_text}
 
 ---
 
@@ -331,13 +333,21 @@ def make_doc(filename: str, video_list: list, reverse):
                 # Remove text enclosed in 【】from title
                 title = re.sub(r'【[^】]*】', '', video['title']).strip()             
 
+                transcript_text = ""
+                translate_path = f"{translate_dir}{id}.txt"
+                if os.path.exists(translate_path):
+                    with open(translate_path, 'r', encoding='utf-8') as tf:
+                        transcript_text = tf.read()
+                        transcript_text = f"\n---\n\n{transcript_text}"
+            
                 # 填入模板
                 content = details_template.format(
                     idx=video['idx'],
                     date=date_str,
                     title=title,
                     id=id,
-                    summary_file=summary_content
+                    summary_file=summary_content,
+                    transcript_text=transcript_text
                 )
                 
                 f.write(content)
@@ -489,5 +499,5 @@ if __name__ == '__main__':
     # convert_subtitle()
     # summerize_script()
     create_doc(df, 50, True)
-    #email_notify(new_df)
+    # email_notify(new_df)
     logger.info("更新程序完成")

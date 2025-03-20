@@ -6,3 +6,4 @@ zhconv
 requests
 openai
 openai-whisper 
+google-generativeai
