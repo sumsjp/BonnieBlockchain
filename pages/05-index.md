@@ -1,4 +1,20 @@
 <details>
+<summary>258. [2025-03-20] 2025世界就業報告！哪些工作最搶手？哪些即將消失？哪些大幅加薪？哪些科系熱門？</summary><br>
+
+<a href="https://www.youtube.com/watch?v=nku9Du2Zvu8" target="_blank">
+    <img src="https://img.youtube.com/vi/nku9Du2Zvu8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 2025世界就業報告！哪些工作最搶手？哪些即將消失？哪些大幅加薪？哪些科系熱門？
+
+
+
+---
+
+</details>
+
+<details>
 <summary>257. [2025-03-17] 怎麼成為頂尖1%！幣圈邪教？最看不順眼的事！feat. @blockchaindailynews</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mlQqwTTtUNM" target="_blank">
