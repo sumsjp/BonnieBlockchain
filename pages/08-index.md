@@ -168,7 +168,7 @@
 </details>
 
 <details>
-<summary>167. 10萬滾到千萬！幣圈少年全靠這一招！【邦妮區塊鏈】</summary><br>
+<summary>167. [2024-03-10] 10萬滾到千萬！幣圈少年全靠這一招！【邦妮區塊鏈】</summary><br>
 
 <a href="https://www.youtube.com/watch?v=79o_dENHYKw" target="_blank">
     <img src="https://img.youtube.com/vi/79o_dENHYKw/maxresdefault.jpg" 
@@ -181,7 +181,7 @@
 </details>
 
 <details>
-<summary>166. 市場極度貪婪！USDT創辦人超狂預測！再破歷史新高？終將下跌？</summary><br>
+<summary>166. [2024-03-08] 市場極度貪婪！USDT創辦人超狂預測！再破歷史新高？終將下跌？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=wN553NCWIOc" target="_blank">
     <img src="https://img.youtube.com/vi/wN553NCWIOc/maxresdefault.jpg" 
@@ -194,7 +194,7 @@
 </details>
 
 <details>
-<summary>165. 比特幣暴漲原因一次看！專家才知道的財富密碼！內行不藏私！ #比特幣</summary><br>
+<summary>165. [2024-03-03] 比特幣暴漲原因一次看！專家才知道的財富密碼！內行不藏私！ #比特幣</summary><br>
 
 <a href="https://www.youtube.com/watch?v=LdRE_GD6w6k" target="_blank">
     <img src="https://img.youtube.com/vi/LdRE_GD6w6k/maxresdefault.jpg" 
@@ -207,7 +207,7 @@
 </details>
 
 <details>
-<summary>164. 幣圈市場機會大爆發！在dYdX用這招穩穩賺美元！老大親自出馬！</summary><br>
+<summary>164. [2024-02-25] 幣圈市場機會大爆發！在dYdX用這招穩穩賺美元！老大親自出馬！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=istKPE2EWd4" target="_blank">
     <img src="https://img.youtube.com/vi/istKPE2EWd4/maxresdefault.jpg" 
@@ -220,7 +220,7 @@
 </details>
 
 <details>
-<summary>163. 這整支影片都不是真的！文字轉影片AI！#SORA 【邦妮區塊鏈】</summary><br>
+<summary>163. [2024-02-20] 這整支影片都不是真的！文字轉影片AI！#SORA 【邦妮區塊鏈】</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v3oLbSeK1YE" target="_blank">
     <img src="https://img.youtube.com/vi/v3oLbSeK1YE/maxresdefault.jpg" 
@@ -233,7 +233,7 @@
 </details>
 
 <details>
-<summary>162. 快來看看！你會以哪種方式變有錢人？</summary><br>
+<summary>162. [2024-02-15] 快來看看！你會以哪種方式變有錢人？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JiDpAwgSU-o" target="_blank">
     <img src="https://img.youtube.com/vi/JiDpAwgSU-o/maxresdefault.jpg" 
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-<summary>161. 2024年幣圈即將爆發的賽道！超詳細懶人包！</summary><br>
+<summary>161. [2024-02-12] 2024年幣圈即將爆發的賽道！超詳細懶人包！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=V5KtGK9TYh4" target="_blank">
     <img src="https://img.youtube.com/vi/V5KtGK9TYh4/maxresdefault.jpg" 
