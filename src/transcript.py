@@ -75,7 +75,7 @@ def make_transcript(input_file, output_file):
 
 # 範例用法：
 if __name__ == "__main__":
-    video_id = 'nku9Du2Zvu8'
+    video_id = 'Pr2sB1KMQhY'
     input_file = f"subtitle/{video_id}.txt"
     output_file = f"../transcript/{video_id}.md"  
     make_transcript(input_file, output_file)  # 處理 input/n01.txt
