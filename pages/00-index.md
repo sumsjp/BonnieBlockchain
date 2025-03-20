@@ -361,6 +361,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/2zrLPInave8.md)
+
 # 怕爆！鈔票為什麼可以一直印？瘋狂印錢！居然比史上最貴的13次戰爭還多！
 
 ## 美國大量增發貨幣的背景、機制與影響分析
@@ -418,6 +420,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
     <img src="https://img.youtube.com/vi/4M1PJB3yBXA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/4M1PJB3yBXA.md)
 
 # 最慘的還沒來！史詩級泡泡！倒數引爆！本世紀大蕭條即將來臨？
 
@@ -1348,6 +1352,8 @@ USDT作為加密貨幣市場主要的穩定幣，近期面臨諸多負面訊息�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/7qLzW2e7eVA.md)
+
 # 2022幣圈股市最重要的一天！請準備好！
 
 以下是根据文章重新整理的总结，旨在提供细致、客观的解释：
@@ -1547,6 +1553,8 @@ Hayes 認為，市場可能會快速從這些投資者手中釋放資金，導�
     <img src="https://img.youtube.com/vi/6VIvR2Ygti0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/6VIvR2Ygti0.md)
 
 # BNB閃跌！幣安Binance腥風血雨！被控成為毒販駭客洗錢聖地！
 
@@ -1803,6 +1811,8 @@ Tether公司的CEO是JL，一位居住在香港的荷兰人。 CFO为Giancarlo�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/-SVO3JwXWcQ.md)
+
 # 關鍵7天搶救LUNA UST！終極之戰！TERRA投票已啟動！你投了嗎？
 
 ## Terra Luna 事件發展詳情記錄 (依文章內容撰寫，不加入主觀意見)
@@ -1912,6 +1922,8 @@ USDD後續的儲備金組成主要由USDT及USDC構成，两者均是與美元�
     <img src="https://img.youtube.com/vi/3N83Z035G-s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/3N83Z035G-s.md)
 
 # 誰攻擊LUNA？Do Kwon心懷不軌？孫宇晨保自己的USDD？美國政府的陰謀？龐氏騙局？LUNA UST陰謀論！
 
@@ -2215,6 +2227,8 @@ OpenSea 是一個 NFT 交易平台。使用者透過連接數位錢包（如Meta
     <img src="https://img.youtube.com/vi/1rvfpfeK-hw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/1rvfpfeK-hw.md)
 
 # 炒幣如何看K線？怎麼看走勢圖？
 

@@ -45,8 +45,8 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # logger.info(f"email={sender_email}, password={sender_password}")
 
-# receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
-receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+# receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -505,6 +505,24 @@ def email_notify(new_df):
                 
                 # 將 Markdown 轉換為 HTML
                 html_content = markdown.markdown(summary_content)
+
+                # 檢查 transcript 是否存在，若存在，則加入到 HTML 內容中
+                transcript_content = ""
+                transcript_file = f"{transcript_dir}{video_id}.md"
+                if os.path.exists(transcript_file):
+                    try:
+                        with open(transcript_file, 'r', encoding='utf-8') as f:
+                            transcript_content = f.read()
+                        transcript_html = markdown.markdown(transcript_content)
+                        transcript_section = f"""
+                        <h2>逐字稿：</h2>
+                        {transcript_html}
+                        """
+                    except Exception as e:
+                        logger.error(f"讀取逐字稿失敗 {video_id}: {str(e)}")
+                        transcript_section = ""
+                else:
+                    transcript_section = ""
                 
                 # HTML 模板
                 html_template = f"""
@@ -514,16 +532,18 @@ def email_notify(new_df):
                     <p>影片連結：<a href="{video['url']}">{video['url']}</a></p>
                     <h2>影片摘要：</h2>
                     {html_content}
+                    {transcript_section}
                   </body>
                 </html>
                 """
                 
+                title = re.sub(r'【[^】]*】', '', video['title']).strip()             
                 # 發送給每個收件者
                 for receiver in receiver_emails:
                     # 為每個收件者建立新的郵件物件
                     msg = MIMEMultipart('alternative')
-                    msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
-                    msg['From'] = f"no-reply <{sender_email}>"
+                    msg['Subject'] = f"邦妮區塊鏈: {title}"
+                    msg['From'] = f"Bonnie Blockchain <{sender_email}>"
                     msg['To'] = receiver
                     msg.attach(MIMEText(html_template, 'html'))
                     

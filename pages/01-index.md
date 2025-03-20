@@ -290,6 +290,8 @@ X-Rex的最終目標是串聯真實的金融世界與鏈上的金融世界。“
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/3W0hAhQ4n_c.md)
+
 # 絕美製圖瞬間上手！馬上學會AI自己！Midjourney 大補帖懶人包來了！超簡單！
 
 ## Midjourney AI繪圖教學與咒語靈感整理
@@ -485,6 +487,8 @@ DouKwan在2022年遭到南韓警方發出逮捕令，並受到國際刑警組織
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/1RDf-mn3mPY.md)
+
 # 微軟 AI Copilot 發表會懶人包！不要問我為什麼跪著！看完直接加薪！
 
 ## 翻玩職場與生活：微軟 Copilot AI 深度解析
@@ -541,6 +545,8 @@ Copilot 目前已開啟測試階段並提供給部分客戶使用，预计在未
     <img src="https://img.youtube.com/vi/2aQ0TQ99pms/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/2aQ0TQ99pms.md)
 
 # 瑞士信貸即將引爆！巨大金融海嘯！發生什麼事？
 
@@ -828,6 +834,8 @@ Silvergate Bank 的危機反映了加密產業面臨的挑戰與風險，也暴�
     <img src="https://img.youtube.com/vi/6HToL6aJCEo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/6HToL6aJCEo.md)
 
 # 惡意市場操縱！經典教科書案例！CELT 與 OKX 的對決！
 
@@ -1372,6 +1380,8 @@ Bonnie在影片最後鼓勵觀眾分享這個有用的工具，並期待收到�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/7XIF-EDU2VY.md)
+
 # 人生立刻開外掛的方法！免費AI可以幫你做的5件事！馬上超越全人類智商！ChatGPT人工智能的時代來臨！
 
 ## Chat GPT 功能與應用潛力探討
@@ -1904,6 +1914,8 @@ SBF 聲稱讓那裡投資者在Bahamas 錢都被取消了，因為他認為交�
     <img src="https://img.youtube.com/vi/2gvc0LgnNfQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/2gvc0LgnNfQ.md)
 
 # 幣圈交易所！出來面對！內幕大解密！
 
@@ -2526,6 +2538,8 @@ Alameda Research 的營運方式與過去的三箭資本(Three Arrow Capital)相
     <img src="https://img.youtube.com/vi/1OTmyCi22XA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/1OTmyCi22XA.md)
 
 # 最慘的居然還沒來！科技股全面崩盤！歷史重演！大舉裁員！
 
