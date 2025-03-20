@@ -6,6 +6,7 @@ __pycache__/
 .env
 *.env
 .DS_Store
+.vscode/
 tmp.txt
 bin/
 log/

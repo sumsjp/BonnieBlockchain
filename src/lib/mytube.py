@@ -32,6 +32,22 @@ def get_video_list(channel_url):
         logger.error(f"取得影片清單失敗: {str(e)}")
         return []
 
+def format_date(date):
+    return f"{date[:4]}-{date[4:6]}-{date[6:]}" if date != 'unknown' else date
+
+def get_upload_date(video_id):
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    
+    ydl_opts = {
+        'quiet': True,  # 不顯示多餘的日誌
+        'extract_flat': True  # 只提取影片資訊，不下載
+    }
+    
+    with YoutubeDL(ydl_opts) as ydl:
+        info = ydl.extract_info(url, download=False)
+        date = info.get("upload_date", "unknown")        
+        return format_date(date)
+
 def download_subtitle(video_id, preferred_langs):
     info_opts = {
         'quiet': True,

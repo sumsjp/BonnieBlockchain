@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import random
 from dotenv import load_dotenv
 import smtplib
 from email.mime.text import MIMEText
@@ -8,9 +7,8 @@ from email.mime.multipart import MIMEMultipart
 import markdown
 import time
 import ssl
-from datetime import datetime
 
-from lib.mytube import get_video_list, download_video_file, convert_script
+from lib.mytube import get_video_list, download_video_file, convert_script, get_upload_date
 from lib.myai import get_summary
 from lib.mylog import setup_logger
 from verify_chinese import detect_chinese
@@ -93,6 +91,53 @@ def update_list():
         # new_df = existing_df.tail(1)
         new_df = pd.DataFrame()
         return existing_df, new_df
+
+
+def update_date(df):
+    """
+    Update unknown or missing upload dates in the DataFrame
+    - Processes from the latest entries backwards
+    - Updates entries where date is 'unknown'
+    - Limits to maximum 10 API calls
+    - Saves updated data back to CSV
+    """
+    if df.empty:
+        return df
+        
+    update_count = 0
+    max_updates = 10
+    
+    # Process from newest to oldest
+    for idx in reversed(df.index):
+        if update_count >= max_updates:
+            logger.info(f"已達到最大更新數量 ({max_updates})")
+            break
+            
+        video_id = df.loc[idx, 'id']
+        current_date = df.loc[idx, 'date']
+        
+        if current_date == 'unknown':
+            logger.info(f"更新日期中：{idx}:{video_id}")
+            try:
+                new_date = get_upload_date(video_id)
+                if new_date != 'unknown':
+                    df.loc[idx, 'date'] = new_date
+                    update_count += 1
+                    logger.info(f"更新成功：{idx}:{video_id} -> {new_date}")
+                else:
+                    logger.warning(f"無法取得日期：{idx}:{video_id}")
+            except Exception as e:
+                logger.error(f"更新日期失敗 {idx}:{video_id}: {str(e)}")
+                continue
+    
+    if update_count > 0:
+        # Save updates back to CSV
+        df.to_csv(csv_file, index=False)
+        logger.info(f"完成 {update_count} 個影片的日期更新")
+    else:
+        logger.info("沒有需要更新的日期")
+        
+    return df
 
 
 def download_video(df):  # Changed from download_audio
@@ -417,6 +462,7 @@ def email_notify(new_df):
 if __name__ == '__main__':
     logger.info("開始執行更新程序")
     df, new_df = update_list()
+    update_date(df)
     download_video(df)  # Changed from download_audio
     convert_subtitle()
     # summerize_script()
