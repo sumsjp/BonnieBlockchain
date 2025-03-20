@@ -7,10 +7,7 @@ from lib.mylog import setup_logger
 logger = setup_logger('youtube_update')
 
 load_dotenv()
-def make_transcript(video_id: str):
-    input_file = f"subtitle/{video_id}.txt"
-    output_file = f"../transcript/{video_id}.md"  
-
+def make_transcript(input_file, output_file):
     # 1. 設定 Gemini API 金鑰
     genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
@@ -78,4 +75,7 @@ def make_transcript(video_id: str):
 
 # 範例用法：
 if __name__ == "__main__":
-    make_transcript('nku9Du2Zvu8')  # 處理 input/n01.txt
+    video_id = 'nku9Du2Zvu8'
+    input_file = f"subtitle/{video_id}.txt"
+    output_file = f"../transcript/{video_id}.md"  
+    make_transcript(input_file, output_file)  # 處理 input/n01.txt
