@@ -1558,6 +1558,8 @@ Tesla Optimus 人型機器人持續進化，Tesla 提到，過去幾年在機器
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/Pr2sB1KMQhY.md)
+
 # 非洲最大交易所：長期比特幣合理價2100萬台幣！
 
 ## 公开对话记录重写（完整版）
