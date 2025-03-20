@@ -264,6 +264,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/bdWwU9RnEyg.md)
+
 # 不要再投資了？看完這支影片！終極指標！銀行系統的崩壞！最慘的要來了？
 
 ## 瑞士信貸及德意志銀行岌危：現況、風險與歷史類比整理
@@ -1518,6 +1520,8 @@ FBI調查發現，在思路平台上的交易量極為龐大。在調查過程�
     <img src="https://img.youtube.com/vi/b41ju0Bq_1c/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/b41ju0Bq_1c.md)
 
 # 比特幣價格預測！市場觸底倒數？5個原因！
 

@@ -952,6 +952,8 @@ Rollups是一種層2擴容解决方案，旨在提高以太坊等區塊鏈的可
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/bzDEUOXwTxc.md)
+
 # 幣圈大佬們不忍了！爆出核彈等級內幕！
 
 ## 区塊链监管观察：多方观点与事件聚焦
