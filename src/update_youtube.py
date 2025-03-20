@@ -567,7 +567,7 @@ if __name__ == '__main__':
     update_date(df)
     download_video(df)  # Changed from download_audio
     convert_subtitle()
-    transcribe_script()
+    #transcribe_script()
     summerize_script()
     create_doc(df, 50, True)
     email_notify(new_df)
