@@ -335,6 +335,7 @@ def make_doc(filename: str, video_list: list, reverse):
 
                 transcript_text = ""
                 translate_path = f"{translate_dir}{id}.txt"
+                print(translate_path)
                 if os.path.exists(translate_path):
                     with open(translate_path, 'r', encoding='utf-8') as tf:
                         transcript_text = tf.read()
