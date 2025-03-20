@@ -254,13 +254,14 @@ def transcribe_script():
             
         # 取得檔名（不含副檔名）
         video_id = os.path.splitext(subtitle_file)[0]
+        transcript_file = f"{transcript_dir}{video_id}.md"
         
         # 如果還沒有對應的 transcript 檔案
         if video_id not in existing_transcripts:
             logger.info(f"處理逐字稿中：{video_id}")
             
             try:
-                make_transcript(video_id)
+                make_transcript(subtitle_file, transcript_file)
                 processed_count += 1
                 logger.info(f"逐字稿已完成：{video_id}")
                 
