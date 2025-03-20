@@ -12,7 +12,6 @@ log/
 share/
 scripts/
 video/
-subtitle/
 pyvenv.cfg
 
 # C extensions
