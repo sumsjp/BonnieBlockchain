@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-def process_file(video_id: str):
+def make_transcript(video_id: str):
     input_file = f"subtitle/{video_id}.txt"
     output_file = f"reformat/{video_id}.txt"  
 
@@ -66,7 +66,7 @@ def process_file(video_id: str):
                 safety_settings=safety_settings,
             )
             for chunk in response_stream:
-                print(chunk.text, end="", flush=True)
+                # print(chunk.text, end="", flush=True)
                 f.write(chunk.text)
         print(f"已寫入 {output_file}")
     except Exception as e:
@@ -75,4 +75,4 @@ def process_file(video_id: str):
 
 # 範例用法：
 if __name__ == "__main__":
-    process_file('nku9Du2Zvu8')  # 處理 input/n01.txt
+    make_transcript('nku9Du2Zvu8')  # 處理 input/n01.txt
