@@ -28,7 +28,7 @@ readme_file = os.path.join(base_dir, 'README.md')
 
 # under src_dir
 subtitle_dir = os.path.join(src_dir, 'subtitle/')
-translate_dir = os.path.join(src_dir, 'translate/')
+translate_dir = os.path.join(src_dir, 'reformat/')
 video_dir = os.path.join(base_dir, 'video_dir/')
 csv_file = os.path.join(src_dir, 'video_list.csv')
 
@@ -337,9 +337,11 @@ def make_doc(filename: str, video_list: list, reverse):
                 translate_path = f"{translate_dir}{id}.txt"
                 print(translate_path)
                 if os.path.exists(translate_path):
+                    print(f"{translate_path} exists")
                     with open(translate_path, 'r', encoding='utf-8') as tf:
                         transcript_text = tf.read()
                         transcript_text = f"\n---\n\n{transcript_text}"
+                        print(transcript_text)
             
                 # 填入模板
                 content = details_template.format(
