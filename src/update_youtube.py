@@ -247,13 +247,14 @@ def transcribe_script():
     processed_count = 0
     max_processes = 10
     
-    for subtitle_file in subtitle_files:
+    for subtitle_name in subtitle_files:
         if processed_count >= max_processes:
             logger.info(f"已達到最大處理數量 ({max_processes})")
             break
             
         # 取得檔名（不含副檔名）
-        video_id = os.path.splitext(subtitle_file)[0]
+        video_id = os.path.splitext(subtitle_name)[0]
+        subtitle_file = f"{subtitle_dir}{subtitle_name}.txt"
         transcript_file = f"{transcript_dir}{video_id}.md"
         
         # 如果還沒有對應的 transcript 檔案
