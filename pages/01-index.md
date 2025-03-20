@@ -335,14 +335,14 @@
 </details>
 
 <details>
-<summary>79. 【情人節特輯】幣圈人常被分手？吸引力指數大公開！</summary><br>
+<summary>79. 幣圈人常被分手？吸引力指數大公開！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZLZeI5_hs_A" target="_blank">
     <img src="https://img.youtube.com/vi/ZLZeI5_hs_A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【情人節特輯】幣圈人常被分手？吸引力指數大公開！
+# 幣圈人常被分手？吸引力指數大公開！
 
 
 
@@ -623,14 +623,14 @@
 </details>
 
 <details>
-<summary>61. 幣圈關鍵時刻【FTX電話錄音】曝光！</summary><br>
+<summary>61. 幣圈關鍵時刻曝光！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eiLNbW6c75M" target="_blank">
     <img src="https://img.youtube.com/vi/eiLNbW6c75M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 幣圈關鍵時刻【FTX電話錄音】曝光！
+# 幣圈關鍵時刻曝光！
 
 
 

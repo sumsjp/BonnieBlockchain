@@ -1,12 +1,12 @@
 <details>
-<summary>50. 【乾貨】哪一種穩定幣好？大戰開打！ USDT | USDC | BUSD | DAI</summary><br>
+<summary>50. 哪一種穩定幣好？大戰開打！ USDT | USDC | BUSD | DAI</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9FoK12zt2lQ" target="_blank">
     <img src="https://img.youtube.com/vi/9FoK12zt2lQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【乾貨】哪一種穩定幣好？大戰開打！ USDT | USDC | BUSD | DAI
+# 哪一種穩定幣好？大戰開打！ USDT | USDC | BUSD | DAI
 
 
 
@@ -31,14 +31,14 @@
 </details>
 
 <details>
-<summary>48. 【掏心掏肺】我投資的錢哪來的？幣圈長期抗戰策略！實用抄底工具分享！</summary><br>
+<summary>48. 我投資的錢哪來的？幣圈長期抗戰策略！實用抄底工具分享！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PYudNx839r0" target="_blank">
     <img src="https://img.youtube.com/vi/PYudNx839r0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【掏心掏肺】我投資的錢哪來的？幣圈長期抗戰策略！實用抄底工具分享！
+# 我投資的錢哪來的？幣圈長期抗戰策略！實用抄底工具分享！
 
 
 
@@ -207,14 +207,14 @@
 </details>
 
 <details>
-<summary>37. 【最新】DO KWON訪談懶人包！TERRA崩壞！詐騙？內賊？雙面人？</summary><br>
+<summary>37. DO KWON訪談懶人包！TERRA崩壞！詐騙？內賊？雙面人？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aHRz1io7rJE" target="_blank">
     <img src="https://img.youtube.com/vi/aHRz1io7rJE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【最新】DO KWON訪談懶人包！TERRA崩壞！詐騙？內賊？雙面人？
+# DO KWON訪談懶人包！TERRA崩壞！詐騙？內賊？雙面人？
 
 
 
@@ -639,14 +639,14 @@
 </details>
 
 <details>
-<summary>10. NFT怎麼買賣？OpenSea 完整操作教學！【最新版】</summary><br>
+<summary>10. NFT怎麼買賣？OpenSea 完整操作教學！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=v_1pXz0CK24" target="_blank">
     <img src="https://img.youtube.com/vi/v_1pXz0CK24/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# NFT怎麼買賣？OpenSea 完整操作教學！【最新版】
+# NFT怎麼買賣？OpenSea 完整操作教學！
 
 
 
@@ -671,14 +671,14 @@
 </details>
 
 <details>
-<summary>8. 【幣圈小學堂】幣圈農夫？收益耕種是什麼意思？</summary><br>
+<summary>8. 幣圈農夫？收益耕種是什麼意思？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=HO0ELN-fq1o" target="_blank">
     <img src="https://img.youtube.com/vi/HO0ELN-fq1o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【幣圈小學堂】幣圈農夫？收益耕種是什麼意思？
+# 幣圈農夫？收益耕種是什麼意思？
 
 
 
