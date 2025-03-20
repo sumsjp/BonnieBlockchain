@@ -24,6 +24,7 @@ base_dir = os.path.join(src_dir, '../')
 # under base_dir
 pages_dir = os.path.join(base_dir, 'pages/')
 summary_dir = os.path.join(base_dir, 'summary/')  
+transcript_dir = os.path.join(base_dir, 'transcript/')
 readme_file = os.path.join(base_dir, 'README.md')  
 
 # under src_dir
@@ -43,8 +44,8 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # logger.info(f"email={sender_email}, password={sender_password}")
 
+# receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
-# receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
     # === yt-dlp 參數設定 ===
@@ -292,7 +293,7 @@ def make_doc(filename: str, video_list: list, reverse):
 <a href="https://www.youtube.com/watch?v={id}" target="_blank">
     <img src="https://img.youtube.com/vi/{id}/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
-</a>
+</a>{transcript_url}
 
 # {title}
 
@@ -331,13 +332,19 @@ def make_doc(filename: str, video_list: list, reverse):
                 # Remove text enclosed in 【】from title
                 title = re.sub(r'【[^】]*】', '', video['title']).strip()             
 
+                transcript_url = ""
+                transcript_path = f"{transcript_dir}{id}.md"
+                if os.path.exists(transcript_path):
+                    transcript_url = f"\n\n[Transcript](../transcript/{id}.md)"
+            
                 # 填入模板
                 content = details_template.format(
                     idx=video['idx'],
                     date=date_str,
                     title=title,
                     id=id,
-                    summary_file=summary_content
+                    summary_file=summary_content,
+                    transcript_url=transcript_url
                 )
                 
                 f.write(content)
@@ -484,10 +491,10 @@ def email_notify(new_df):
 if __name__ == '__main__':
     logger.info("開始執行更新程序")
     df, new_df = update_list()
-    # update_date(df)
-    # download_video(df)  # Changed from download_audio
-    # convert_subtitle()
+    update_date(df)
+    download_video(df)  # Changed from download_audio
+    convert_subtitle()
     summerize_script()
     create_doc(df, 50, True)
-    #email_notify(new_df)
+    email_notify(new_df)
     logger.info("更新程序完成")
