@@ -17,13 +17,19 @@ from verify_chinese import detect_chinese
 logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
-base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
-video_dir = os.path.join(base_dir, 'src/video/')  # Changed from audio_dir
-subtitle_dir = os.path.join(base_dir, 'src/subtitle/')
+src_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.join(src_dir, '../')
+
+# under base_dir
+pages_dir = os.path.join(base_dir, 'pages/')
 summary_dir = os.path.join(base_dir, 'summary/')  
-docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
-csv_file = os.path.join(base_dir, 'src/video_list.csv')
+
+# under src_dir
+subtitle_dir = os.path.join(src_dir, 'subtitle/')
+video_dir = os.path.join(base_dir, 'video_dir/')
+csv_file = os.path.join(src_dir, 'video_list.csv')
+
 
 # === 設定頻道網址 ===
 channel_url = 'https://www.youtube.com/@BonnieBlockchain/videos'
@@ -353,7 +359,7 @@ def create_readme_doc(max_idx, latest_date, batch_size=100):
         f.write(content)
 
 
-def create_doc(df):
+def create_doc(df, reverse):
     """
     從 DataFrame 中分批取出影片資料，並呼叫 make_doc 製作文件
     每批次處理 idx 範圍內的所有資料（如1-100內的所有存在的idx）
@@ -362,7 +368,7 @@ def create_doc(df):
     try:
         # 取得最大的 idx
         max_idx = df['idx'].max()
-        batch_size = 50
+        batch_size = 20
         
         # 計算需要產生幾個檔案
         num_batches = (max_idx + batch_size - 1) // batch_size  # 向上取整
@@ -379,7 +385,7 @@ def create_doc(df):
             # 如果這個範圍有資料才處理
             if not batch_df.empty:
                 # 產生檔名 (01-index.md, 02-index.md, ...)
-                filename = f"{docs_dir}/{batch_num:02d}-index.md"
+                filename = f"{pages_dir}/{batch_num:02d}-index.md"
                 
                 # 將 DataFrame 轉換成字典列表
                 video_list = batch_df.to_dict('records')
@@ -387,7 +393,7 @@ def create_doc(df):
                 logger.info(f"處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
                 
                 # 呼叫 make_doc 製作文件
-                make_doc(filename, video_list)
+                make_doc(filename, video_list, reverse)
                 
                 logger.info(f"完成文件：{filename}")
         
@@ -395,7 +401,7 @@ def create_doc(df):
 
         # 取得最新日期
         latest_date = df['date'].iloc[-1]
-        create_readme_doc(max_idx, latest_date, batch_size)
+        create_readme_doc(max_idx, latest_date, batch_size, reverse)
         
     except Exception as e:
         logger.error(f"處理文件時發生錯誤：{str(e)}")
@@ -473,6 +479,6 @@ if __name__ == '__main__':
     # download_video(df)  # Changed from download_audio
     # convert_subtitle()
     # summerize_script()
-    create_doc(df)
+    create_doc(df, True)
     #email_notify(new_df)
     logger.info("更新程序完成")
