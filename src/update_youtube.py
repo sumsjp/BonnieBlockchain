@@ -472,7 +472,7 @@ if __name__ == '__main__':
     # update_date(df)
     # download_video(df)  # Changed from download_audio
     # convert_subtitle()
-    summerize_script()
+    # summerize_script()
     create_doc(df)
-    email_notify(new_df)
+    #email_notify(new_df)
     logger.info("更新程序完成")
