@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from yt_dlp import YoutubeDL
+from get_date import get_upload_date, format_date
 
 # === 設定頻道網址 ===
 channel_url = 'https://www.youtube.com/@BonnieBlockchain/videos'
@@ -21,25 +22,23 @@ with YoutubeDL(ydl_opts) as ydl:
     channel_info = ydl.extract_info(channel_url, download=False)
 
 videos = channel_info.get('entries', [])
+print(f"成功取得頻道影片清單，共 {len(videos)} 部影片")
 
 # === 建立 DataFrame ===
 video_list = []
 for video in videos:
+    count += 1
     video_id = video.get('id')
+    date = video.get('upload_date', 'unknown')
+
     video_list.append({
         'id': video_id,
         'title': video.get('title'),
         'url': f"https://www.youtube.com/watch?v={video_id}",
-        'date': video.get('upload_date', 'unknown')
+        'date': format_date(date)
     })
 
 df = pd.DataFrame(video_list)
-
-# === 若日期存在，轉換格式 ===
-def format_date(date):
-    return f"{date[:4]}-{date[4:6]}-{date[6:]}" if date != 'unknown' else date
-
-df['date'] = df['date'].apply(format_date)
 df = df.iloc[::-1].reset_index(drop=True)
 
 # === 加入從1開始的 idx 欄位 ===
