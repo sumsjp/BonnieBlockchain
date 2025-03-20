@@ -13,6 +13,7 @@ from lib.mytube import get_video_list, download_video_file, convert_script, get_
 from lib.myai import get_summary
 from lib.mylog import setup_logger
 from verify_chinese import detect_chinese
+from transcript import make_transcript
 
 # 設定 logger
 logger = setup_logger('youtube_update')
@@ -219,6 +220,56 @@ def convert_subtitle():
     
     if processed_count > 0:
         logger.info(f"完成 {processed_count} 個檔案的字幕")
+    else:
+        logger.info("沒有需要處理的檔案")
+
+def transcribe_script():
+    """
+    Convert subtitle files to transcripts using make_transcript
+    - Processes files from subtitle directory
+    - Creates transcripts if they don't exist
+    - Limits to maximum 10 API calls
+    """
+    # 確保 transcript 目錄存在
+    os.makedirs(transcript_dir, exist_ok=True)
+    
+    # 取得所有 subtitle 目錄下的 txt 檔案
+    subtitle_files = [f for f in os.listdir(subtitle_dir) if f.endswith('.txt')]
+    
+    # 取得所有已存在的 transcript 檔案
+    existing_transcripts = set(
+        os.path.splitext(f)[0] 
+        for f in os.listdir(transcript_dir) 
+        if f.endswith('.md')
+    )
+    
+    # 計數器
+    processed_count = 0
+    max_processes = 10
+    
+    for subtitle_file in subtitle_files:
+        if processed_count >= max_processes:
+            logger.info(f"已達到最大處理數量 ({max_processes})")
+            break
+            
+        # 取得檔名（不含副檔名）
+        video_id = os.path.splitext(subtitle_file)[0]
+        
+        # 如果還沒有對應的 transcript 檔案
+        if video_id not in existing_transcripts:
+            logger.info(f"處理逐字稿中：{video_id}")
+            
+            try:
+                make_transcript(video_id)
+                processed_count += 1
+                logger.info(f"逐字稿已完成：{video_id}")
+                
+            except Exception as e:
+                logger.error(f"逐字稿產生失敗 {video_id}: {str(e)}")
+                continue
+    
+    if processed_count > 0:
+        logger.info(f"完成 {processed_count} 個檔案的逐字稿")
     else:
         logger.info("沒有需要處理的檔案")
 
@@ -494,6 +545,7 @@ if __name__ == '__main__':
     update_date(df)
     download_video(df)  # Changed from download_audio
     convert_subtitle()
+    transcribe_script()
     summerize_script()
     create_doc(df, 50, True)
     email_notify(new_df)
