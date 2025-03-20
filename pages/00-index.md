@@ -779,6 +779,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/aHRz1io7rJE.md)
+
 # DO KWON訪談懶人包！TERRA崩壞！詐騙？內賊？雙面人？
 
 ## Tera幣崩盤事件：兜寬受訪全文詳解
@@ -2085,6 +2087,8 @@ UST 是一種與美元挂钩的稳定幣，其設計目標為維持1美元的价
     <img src="https://img.youtube.com/vi/AYLlUiWCntE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/AYLlUiWCntE.md)
 
 # 震撼NFT界的Moonbirds月鳥！
 

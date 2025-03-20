@@ -1531,6 +1531,8 @@ Celcius事件警示用户，在参与任何金融产品或平台（包括加密�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/Aij79ngd_eY.md)
+
 # 近乎瘋狂的金融操作！幣圈史上最危險的時刻出現！血洗比特幣的最後一張骨牌！
 
 ## 关于三箭資本、Genesis、DCG及GBTC事件的詳細敘述
