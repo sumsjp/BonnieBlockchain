@@ -109,14 +109,14 @@
 </details>
 
 <details>
-<summary>147. [2023-11-30] 本世紀最強投資人斯思維！改變巴菲特的軍師！【99歲人生謝幕】</summary><br>
+<summary>147. [2023-11-30] 本世紀最強投資人斯思維！改變巴菲特的軍師！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=rRC4PZ9YLvA" target="_blank">
     <img src="https://img.youtube.com/vi/rRC4PZ9YLvA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 本世紀最強投資人斯思維！改變巴菲特的軍師！【99歲人生謝幕】
+# 本世紀最強投資人斯思維！改變巴菲特的軍師！
 
 
 
@@ -141,14 +141,14 @@
 </details>
 
 <details>
-<summary>145. [2023-11-16] 【幣圈爭霸戰 EP3】全明星幣圈紅藍大對抗！超高壓賽制逼出爆發力！想要活下去只能拼盡全力！【終局之戰】</summary><br>
+<summary>145. [2023-11-16] 全明星幣圈紅藍大對抗！超高壓賽制逼出爆發力！想要活下去只能拼盡全力！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tM4S7QpOPms" target="_blank">
     <img src="https://img.youtube.com/vi/tM4S7QpOPms/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【幣圈爭霸戰 EP3】全明星幣圈紅藍大對抗！超高壓賽制逼出爆發力！想要活下去只能拼盡全力！【終局之戰】
+# 全明星幣圈紅藍大對抗！超高壓賽制逼出爆發力！想要活下去只能拼盡全力！
 
 
 
@@ -219,14 +219,14 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>143. [2023-11-05] 2024年世界財富報告！台灣人會不會太有錢了！認知徹底爆炸！【邦妮區塊鏈】</summary><br>
+<summary>143. [2023-11-05] 2024年世界財富報告！台灣人會不會太有錢了！認知徹底爆炸！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=28H_4USULrc" target="_blank">
     <img src="https://img.youtube.com/vi/28H_4USULrc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 2024年世界財富報告！台灣人會不會太有錢了！認知徹底爆炸！【邦妮區塊鏈】
+# 2024年世界財富報告！台灣人會不會太有錢了！認知徹底爆炸！
 
 ## 安聯財富報告詳解 (2024) – 金融資產全球與台灣分析
 
@@ -402,14 +402,14 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>137. 【幣圈爭霸戰 EP2】│ 幣圈網紅決勝負！實力運氣缺一不可！</summary><br>
+<summary>137. [2023-10-11] │ 幣圈網紅決勝負！實力運氣缺一不可！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=dqeAIun9rVo" target="_blank">
     <img src="https://img.youtube.com/vi/dqeAIun9rVo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【幣圈爭霸戰 EP2】│ 幣圈網紅決勝負！實力運氣缺一不可！
+# │ 幣圈網紅決勝負！實力運氣缺一不可！
 
 
 
@@ -418,7 +418,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>136. 臉書最新產品發表會！不敢相信未來居然長這樣！超想要！</summary><br>
+<summary>136. [2023-10-10] 臉書最新產品發表會！不敢相信未來居然長這樣！超想要！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Ebz4b1po5-w" target="_blank">
     <img src="https://img.youtube.com/vi/Ebz4b1po5-w/maxresdefault.jpg" 
@@ -434,14 +434,14 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>135. 【LIVE 世紀審判】史上最大的金融犯罪！馬拉松開庭Day1！</summary><br>
+<summary>135. [2023-10-05] 史上最大的金融犯罪！馬拉松開庭Day1！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xOD-miNma7M" target="_blank">
     <img src="https://img.youtube.com/vi/xOD-miNma7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【LIVE 世紀審判】史上最大的金融犯罪！馬拉松開庭Day1！
+# 史上最大的金融犯罪！馬拉松開庭Day1！
 
 
 
@@ -450,14 +450,14 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>134. 【幣圈爭霸戰：首部曲】│全明星網紅博主駕到！誰能奪下加密貨幣首場戰役？</summary><br>
+<summary>134. [2023-09-26] │全明星網紅博主駕到！誰能奪下加密貨幣首場戰役？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=f6DWv7oVmA0" target="_blank">
     <img src="https://img.youtube.com/vi/f6DWv7oVmA0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【幣圈爭霸戰：首部曲】│全明星網紅博主駕到！誰能奪下加密貨幣首場戰役？
+# │全明星網紅博主駕到！誰能奪下加密貨幣首場戰役？
 
 
 
@@ -466,7 +466,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>133. 中國 VS 韓國！頂尖加密貨幣交易員的秘密！</summary><br>
+<summary>133. [2023-09-22] 中國 VS 韓國！頂尖加密貨幣交易員的秘密！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i1hMtlsH__U" target="_blank">
     <img src="https://img.youtube.com/vi/i1hMtlsH__U/maxresdefault.jpg" 
@@ -482,7 +482,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>132. 幣圈血崩倒數？FTX馬上巨額清倉真相！他們都騙你！</summary><br>
+<summary>132. [2023-09-13] 幣圈血崩倒數？FTX馬上巨額清倉真相！他們都騙你！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=s21zwZNpaVM" target="_blank">
     <img src="https://img.youtube.com/vi/s21zwZNpaVM/maxresdefault.jpg" 
@@ -498,7 +498,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>131. 巴菲特清倉股票！股市大佬押注市場崩盤？新版大賣空？到底發生什麼事？</summary><br>
+<summary>131. [2023-09-05] 巴菲特清倉股票！股市大佬押注市場崩盤？新版大賣空？到底發生什麼事？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nYHB5yhQTvQ" target="_blank">
     <img src="https://img.youtube.com/vi/nYHB5yhQTvQ/maxresdefault.jpg" 
@@ -514,7 +514,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>130. Bybit 交易所 Ben Zhou 來了！這是免費能看的嗎？</summary><br>
+<summary>130. [2023-09-03] Bybit 交易所 Ben Zhou 來了！這是免費能看的嗎？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ir7TFj05uxg" target="_blank">
     <img src="https://img.youtube.com/vi/ir7TFj05uxg/maxresdefault.jpg" 
@@ -530,7 +530,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>129. 灰度事件懶人包！到底發生什麼事？</summary><br>
+<summary>129. [2023-08-31] 灰度事件懶人包！到底發生什麼事？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lqAdOL5CDiE" target="_blank">
     <img src="https://img.youtube.com/vi/lqAdOL5CDiE/maxresdefault.jpg" 
@@ -546,7 +546,7 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>128. 恆大地產總整理！月入14元變成首富！看完我認為許家印絕不是凡人！</summary><br>
+<summary>128. [2023-08-26] 恆大地產總整理！月入14元變成首富！看完我認為許家印絕不是凡人！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6XI9KBxJzgE" target="_blank">
     <img src="https://img.youtube.com/vi/6XI9KBxJzgE/maxresdefault.jpg" 
@@ -598,14 +598,14 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </details>
 
 <details>
-<summary>127. 【智商挑戰】以太坊帳戶抽象！不會不算幣圈人！#OKX</summary><br>
+<summary>127. 以太坊帳戶抽象！不會不算幣圈人！#OKX</summary><br>
 
 <a href="https://www.youtube.com/watch?v=FUS5Dyvj5oQ" target="_blank">
     <img src="https://img.youtube.com/vi/FUS5Dyvj5oQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【智商挑戰】以太坊帳戶抽象！不會不算幣圈人！#OKX
+# 以太坊帳戶抽象！不會不算幣圈人！#OKX
 
 
 
@@ -623,7 +623,42 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 
 # 中國房地產危機懶人包！關鍵48小時到底發生什麼事？
 
+## 中國房地產危機與金融影響：事件梳記與分析
 
+本整理基於影片文字內容，旨在梳理近期中國房地產行業所爆發的危機事件，及其可能對金融市場造成的影響。
+
+**事件開端：恆大集團債務危機**
+
+恆大集團於2021年9月爆發債務危機，成為當時全球負債最多的房地產開發商之一。其欠款金額超出3000億美金（約台幣9兆多）。恆大試圖通過出售子公司（如恆大汽車股份）等方式籌集資金，但仍無法解決財務困境。2021年12月，恆大請求中國政府援助，成為中國歷史上最大一起債務重組事件，外界當時就擔憂此事可能引發新一輪的雷曼危機。
+
+**危機擴大：碧桂原危機浮現**
+
+碧桂園在2023年上半年出現淨虧損，預估在人民幣450至550億（約台幣2000至2400億）之間。此消息一出，其在香港掛牌的股票暴跌，同時，其發行的11檔中國境內債券亦宣告停牌。尤為嚴峻的是，其美元債券的價值跌至流通面額的5%，顯示市場對其償債能力的極度擔憂。
+
+**中植系與房地產曝險**
+
+中植系為中國九大資本派系之一，業務涉及信託、保險、租賃、不動產、能源等多個領域，管理規模達上兆人民幣。此次危機的關鍵在於，中植系旗下中榮信託，向多間房地產公司提供了貸款。由於政府加 tightening 政策限制了房地產公司從銀行獲得貸款，房企轉而向信託公司尋求融資。然而，由於房地產行業困境導致房企無力償還貸款，這直接導致投資信託理財產品的散戶投資者無法收回資金。
+
+**危機成因分析：**
+
+* **房地產銷售下滑：** 房屋銷售量下降，導致房地產公司資金流動性不足。
+* **融資困難：** 受政府打房政策影響，房地產公司難以從傳統銀行獲得資金支持。
+* **外匯波動：** 匯率變動造成的損失也增加了房地產公司的壓力。
+
+**潛在影響：**
+
+* **房企違約風險升高：** 更多房地產公司可能出現違約情況，形成多米諾骨牌效應。
+* **供應鏈反應：** 建築材料需求可能下降，進而影響相關產業。
+* **就業與消費：** 房地產行業員工可能面臨欠薪問題，影響民眾的購買力及消費意願。
+* **金融體系風險：** 危機可能蔓延至金融機構，引發系統性金融風險。
+
+**市場反應與解套意見：**
+
+一部分研究機構認為，此次風險主要集中在個案，不會導致整個信託行業的危機，影響有限。也有分析指出，類似房地產業曝險的消息已非第一次出現，最壞的情況可能已經過去。
+
+**總結：**
+
+此次中國房地產危機事件始於恆大的債務問題，擴及碧桂園的困境，並與中植系的財務曝險相互交織。危機的根本在於房地產銷售下滑、融資困難及外匯波動，並可能引發一系列金融連鎖反應。未來事件發展值得持續關注。
 
 ---
 
@@ -924,14 +959,14 @@ ETF市场主要由黑岩（35%） Vanguard 和 State Street (15-20%) 三家公�
 </details>
 
 <details>
-<summary>110. 【驚】幣圈交易所怎麼上幣？哪些幣會被上架？原來百倍幣是這樣來的！</summary><br>
+<summary>110. 幣圈交易所怎麼上幣？哪些幣會被上架？原來百倍幣是這樣來的！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GBi8r-bsY4Y" target="_blank">
     <img src="https://img.youtube.com/vi/GBi8r-bsY4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
 
-# 【驚】幣圈交易所怎麼上幣？哪些幣會被上架？原來百倍幣是這樣來的！
+# 幣圈交易所怎麼上幣？哪些幣會被上架？原來百倍幣是這樣來的！
 
 
 
