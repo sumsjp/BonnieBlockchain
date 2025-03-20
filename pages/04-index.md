@@ -353,6 +353,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/2lqWYoHU6vs.md)
+
 # NVIDIA黃仁勳：2025年的超強AI！大多數人不知情！你不能錯過這次機會！
 
 ## 重寫後的全文，盡力保持原始細節及結構
@@ -853,6 +855,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/2JBNora-Abs.md)
+
 # 99.99%的人根本不知情！國家機構級別！搶比特幣大戰正式開打！博弈論的終點！
 
 ## 基于原文内容的详细重述
@@ -1175,6 +1179,8 @@ Sayler认为，比特币是一次“奇点”（singularity），因为这是人
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/0HQ1a9uiB0o.md)
+
 # 比特幣歷史新高！4個我還敢買的理由！
 
 ## 文章內容整理與重述
@@ -1335,6 +1341,8 @@ Magic Eden計劃發行ME代币，象徵該平台生態系統內去中心化應�
     <img src="https://img.youtube.com/vi/22-WjWckVyE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/22-WjWckVyE.md)
 
 # 2025年世界財富報告！台灣人居然名列第一！徹底顛覆認知！
 
@@ -2513,6 +2521,8 @@ Buterin 解释说，当所有 Bitcoin 被开采完毕后，矿工的收入就将
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/0rQhWejVaxE.md)
+
 # 2024年10大改變人類的科技！世界居然已經這麼先進了！幣圈恐破解？減肥藥也上榜！
 
 ## 麻省理工學院 2024十大颠覆人類科學发明综述
@@ -2575,6 +2585,8 @@ AI在短短幾年內迅速崛起，尤其以ChatGPT的大規模使用為標誌�
     <img src="https://img.youtube.com/vi/3PhvbFIzqiQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/3PhvbFIzqiQ.md)
 
 # 幣圈匿名借錢？不用擔心被歧視？加密貨幣借貸原來是這樣！
 

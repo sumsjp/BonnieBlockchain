@@ -1,11 +1,15 @@
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
+from lib.mylog import setup_logger
+
+# 設定 logger
+logger = setup_logger('youtube_update')
 
 load_dotenv()
 def make_transcript(video_id: str):
     input_file = f"subtitle/{video_id}.txt"
-    output_file = f"reformat/{video_id}.txt"  
+    output_file = f"../transcript/{video_id}.md"  
 
     # 1. 設定 Gemini API 金鑰
     genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
@@ -18,22 +22,21 @@ def make_transcript(video_id: str):
         with open(input_file, "r", encoding="utf-8") as f:
             input_text = f.read()
     except FileNotFoundError:
-        print(f"找不到檔案：{input_file}")
+        logger.error(f"找不到檔案：{input_file}")
         return
     except Exception as e:
-        print(f"讀取檔案時發生錯誤：{e}")
+        logger.error(f"讀取檔案時發生錯誤：{e}")
         return
 
     # 4. 建立 Prompt
-    prompt = f"請將以下文字翻譯成繁體中文，保持上文連貫性，並且保持原義。若是已是繁體中文，請重新排版：\n\n{input_text}"  # 更明確的 Prompt
+    prompt = f"請將以下文字翻譯成繁體中文，保持上文連貫性，並且保持原義。若是已是繁體中文，請重新排版：\n\n{input_text}"
 
-    # 5. 設定 Generate Content Config (部分參數可能不需要)
+    # 5. 設定 Generate Content Config
     generation_config = genai.types.GenerationConfig(
         temperature=0.1,
         top_p=0.95,
         top_k=40,
         max_output_tokens=8192,
-        # response_mime_type="text/plain", # 通常不需要
     )
 
     safety_settings = [
@@ -56,7 +59,7 @@ def make_transcript(video_id: str):
     ]
 
     # 6. 翻譯並寫入檔案 (Streaming 模式)
-    os.makedirs("reformat", exist_ok=True)
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     try:
         with open(output_file, "w", encoding="utf-8") as f:
             response_stream = model.generate_content(
@@ -66,12 +69,12 @@ def make_transcript(video_id: str):
                 safety_settings=safety_settings,
             )
             for chunk in response_stream:
-                # print(chunk.text, end="", flush=True)
+                # logger.debug(chunk.text)  # 如果需要詳細除錯資訊
                 f.write(chunk.text)
-        print(f"已寫入 {output_file}")
+        logger.info(f"已寫入 {output_file}")
     except Exception as e:
-        print(f"翻譯或寫入檔案時發生錯誤：{e}")
-
+        os.remove(output_file)  # 如果發生錯誤，刪除部分完成的檔案
+        logger.error(f"翻譯或寫入檔案時發生錯誤：{e}")
 
 # 範例用法：
 if __name__ == "__main__":

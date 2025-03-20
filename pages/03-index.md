@@ -46,6 +46,8 @@ OKX、閉安派網，及其他交易平台正協助爭取並提供相關資訊�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/46zKBQFe5gY.md)
+
 # 川普副手是誰？持有比特幣！川普槍擊警察早獲報？最親幣圈政策？
 
 ## J.D. Vance 及其對比特幣等加密貨幣的影響：文獻內容整理
@@ -503,6 +505,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/6wWph-8paCY.md)
+
 # 血洗幣圈？全面失守！崩潰！我要躺下來......
 
 以下是根据提供的文本内容，进行的详细、客观测述：
@@ -566,6 +570,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
     <img src="https://img.youtube.com/vi/-mM8KWizrw0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/-mM8KWizrw0.md)
 
 # 幣圈崩盤！股市新高！加密貨幣牛市結束了？
 
@@ -1036,6 +1042,8 @@ Huang Renxun 提到了 Stripe 的产品设计理念，即擁有美感、优雅�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/0sZIJaDRszU.md)
+
 # 以太現貨ETF通過！幣價怎麼走？準備幹大事！坐等機構進場！
 
 ## 對以太坊現貨 ETF 上市及幣圈可能影響之分析：整理自OKAX 頻道內容
@@ -1428,6 +1436,8 @@ Chris 提出，未來的趨勢可能是物理輕節點的普及，例如任何�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/4cH1HjMdcM4.md)
+
 # 超硬核！第一個喊Solana的男人大曝內幕！牛市拚翻身！Zeus Network！
 
 ## 比特币ETF、DePin与未来网络——贾斯汀深度访谈内容整理
@@ -1815,6 +1825,8 @@ MX是Maxi（摩擦）交易所的平台币。文章提到，MX在上次牛市中
     <img src="https://img.youtube.com/vi/79o_dENHYKw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/79o_dENHYKw.md)
 
 # 10萬滾到千萬！幣圈少年全靠這一招！
 
@@ -2224,6 +2236,8 @@ Sora 是一款文字轉影片的 AI 模型，能夠根據文字指令生成影�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/-qo0CY3QMvI.md)
+
 # 扯！機構99%神準斷言比特幣價！最新預測曝光！
 
 ## 比特幣及加密貨幣市場深度解析
@@ -2275,6 +2289,8 @@ TENX RESEARCH 創始人 Marcus 预测比特币价格可能会达到 52671 美元
     <img src="https://img.youtube.com/vi/4slefC3BQvg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/4slefC3BQvg.md)
 
 # 2024 全球富裕國家排行榜！不敢置信！最有錢的國家居然是….
 

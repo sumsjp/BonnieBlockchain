@@ -102,6 +102,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/1G56gJd_J3c.md)
+
 # 哪個幣能買？超硬核檢驗心法！最詳細加密貨幣研究攻略！經驗濃縮！
 
 以下是依據原文內容重新寫過的詳細、客觀說明，力求詳盡且不添加個人意見。
@@ -363,6 +365,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/6T9-JCAtlFU.md)
+
 # Sam Altman執行長被炒！OpenAI 開發者大會到底發生了什麼？
 
 ## OpenAI开发者大会及未来工作模式分析
@@ -424,6 +428,8 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
     <img src="https://img.youtube.com/vi/28H_4USULrc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/28H_4USULrc.md)
 
 # 2024年世界財富報告！台灣人會不會太有錢了！認知徹底爆炸！
 
@@ -543,6 +549,8 @@ Caroline Ellison 證詞，她解釋了 SBF 如何指示 Alameda 使用 FTX 客�
     <img src="https://img.youtube.com/vi/6gfY7YkP5YI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/6gfY7YkP5YI.md)
 
 # 比特幣還有牛市嗎？大機構居然這樣說......
 
@@ -1276,6 +1284,8 @@ Grayscale Investments的比特币信託基金（GBTC）一直存在折價現象�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/6XI9KBxJzgE.md)
+
 # 恆大地產總整理！月入14元變成首富！看完我認為許家印絕不是凡人！
 
 ## 恆大集團危機事件詳解：從房地產巨頭到債務違約及後續影響
@@ -1797,6 +1807,8 @@ FTX的資產重組進展迅速。目前，多家机构对FTX表现出興趣，�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/5I4pRkf-7-E.md)
+
 # 掌控全世界！這「人」比世上 99.87 % 的「國家」更有錢！
 
 ## 黑岩集团(BlackRock)崛起的故事
@@ -1976,6 +1988,8 @@ Elon Musk的母親宣稱已經單方面取消該場格鬥賽。目前此項賽�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/38596V7AwQ8.md)
+
 # USDT 泰達幣危機倒數？機密文件洩露！
 
 ## USDT穩定幣事件及幣圈相關新聞整理（依文章內容）
@@ -2083,6 +2097,8 @@ SEC 在這場訴訟中採取強硬態度，似乎意味著其希望通過訴訟�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/4VYmLHQRowA.md)
+
 # 幣圈暴跌真實原因！這24小時發生什麼事？
 
 以下是根据提供的文章內容重寫的详细內容，力求客觀且完整，包含所有細節，不添加個人意見：
@@ -2142,6 +2158,8 @@ SEC 對加密貨圈的監管力度日益加強，背後的動機複雜，涉及�
     <img src="https://img.youtube.com/vi/-6TJJfk1Abo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/-6TJJfk1Abo.md)
 
 # 蘋果眼鏡 Apple Vision Pro 一台居然要 3500 美金！值得嗎？
 
@@ -2434,6 +2452,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
     <img src="https://img.youtube.com/vi/-xXbdQlgd3A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/-xXbdQlgd3A.md)
 
 # 美債危機超詳細總整理！你有 2 週能阻止經濟大蕭條......
 
@@ -2817,6 +2837,8 @@ BRC-20是由開發者domislove於2023年3月初提出的實驗性代幣標準。
     <img src="https://img.youtube.com/vi/0M_xdyW9NGU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/0M_xdyW9NGU.md)
 
 # 1 週造就上億富豪！$ PEPE 迷因幣總整理！你只需要看這一支！
 
