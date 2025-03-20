@@ -296,6 +296,9 @@ def make_doc(filename: str, video_list: list, reverse):
 # {title}
 
 {summary_file}
+
+---
+
 </details>
 
 """
@@ -362,7 +365,7 @@ def create_readme_doc(max_idx, latest_date, batch_size, reverse):
     with open(readme_file, 'w', encoding='utf-8') as f:
         f.write(content)
 
-def create_doc(df, reverse):
+def create_doc(df, batch_size, reverse):
     """
     從 DataFrame 中分批取出影片資料，並呼叫 make_doc 製作文件
     每批次處理 idx 範圍內的所有資料（如1-100內的所有存在的idx）
@@ -371,7 +374,6 @@ def create_doc(df, reverse):
     try:
         # 取得最大的 idx
         max_idx = df['idx'].max()
-        batch_size = 20
         
         # 計算需要產生幾個檔案
         num_batches = (max_idx + batch_size - 1) // batch_size  # 向上取整
@@ -482,6 +484,6 @@ if __name__ == '__main__':
     # download_video(df)  # Changed from download_audio
     # convert_subtitle()
     summerize_script()
-    create_doc(df, True)
+    create_doc(df, 50, True)
     #email_notify(new_df)
     logger.info("更新程序完成")
