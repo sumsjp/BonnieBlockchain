@@ -1336,6 +1336,8 @@ ConSenSus隨後對SEC提起反訴，認為SEC試圖以不當手段監管以太�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/8QmThM8oBSs.md)
+
 # 機構給出了驚悚的幣價預測......
 
 ## 關於近期加密貨幣市場的深度分析與報告 (基於文章整理)
@@ -1766,6 +1768,8 @@ Jensen Huang总结了NVIDIA的愿景：构建一个完整的计算平台，能�
     <img src="https://img.youtube.com/vi/8dv7OFHQqCA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/8dv7OFHQqCA.md)
 
 # 這些幣噴10倍！交易所量能爆棚！即將再創新高？
 

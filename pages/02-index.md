@@ -1402,6 +1402,8 @@ OKX 推出的AA智能合约钱包是区块链技术发展的一个重要趋势�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/A4RE9uBVmb4.md)
+
 # 中國房地產危機懶人包！關鍵48小時到底發生什麼事？
 
 ## 中國房地產危機與金融影響：事件梳記與分析
@@ -1933,6 +1935,8 @@ BlackRock 的申請文件據稱準備完整，滿足了 SEC 的審核要求。 �
     <img src="https://img.youtube.com/vi/94cleKtc-Aw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/94cleKtc-Aw.md)
 
 # 為什麼單挑？馬斯克與祖克伯！新仇舊恨總整理！
 
