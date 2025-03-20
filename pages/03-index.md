@@ -938,6 +938,8 @@ Huang Renxun 提到了 Stripe 的产品设计理念，即擁有美感、优雅�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/AK_T7O9tevg.md)
+
 # 總統全力討好幣圈人？比特幣六月創新高！迷因幣瘋漲！華爾街虎視眈眈！
 
 ## 美國總統大選與加密貨幣市場分析

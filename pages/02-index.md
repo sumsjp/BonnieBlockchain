@@ -2217,6 +2217,8 @@ Apple Vision Pro 是一款具有創新性的空間運算裝置，其核心功能
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/aY1R0lH38bY.md)
+
 # 美國告幣安！全網最詳細總整理！136頁起訴書！一次看懂！
 
 ## 关于Binance和SEC诉讼案的详细回顾

@@ -185,6 +185,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/AgvdBbVE2ls.md)
+
 # 2025年比特幣會到多少錢？8個機構專家權威預測！
 
 ## 比特币市场展望：2024-2025 年分析及行业动态
@@ -352,8 +354,6 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
     <img src="https://img.youtube.com/vi/2lqWYoHU6vs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
-
-[Transcript](../transcript/2lqWYoHU6vs.md)
 
 # NVIDIA黃仁勳：2025年的超強AI！大多數人不知情！你不能錯過這次機會！
 
@@ -661,6 +661,8 @@ MicroStrategy 申請股票授權上限增加的目的並非立即大量增發，
     <img src="https://img.youtube.com/vi/AvIBRBSfdKY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/AvIBRBSfdKY.md)
 
 # Magic Eden創辦人：沒有比現在更好的時機！你還來得及致富！
 
@@ -1295,6 +1297,8 @@ Magic Eden計劃發行ME代币，象徵該平台生態系統內去中心化應�
     <img src="https://img.youtube.com/vi/aCsNYqNLtTI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/aCsNYqNLtTI.md)
 
 # 冷錢包權威：你的加密資產已經被盯上！趕快做這件事！冷錢包最詳細解答！
 
@@ -2221,6 +2225,8 @@ Tendium錢包透過備份卡片或戒指，理論上使用者可以將這些備�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/aw1r4lTg1Ww.md)
+
 # 全球晶片股爆跌！兇手居然是它！反壟斷法是什麼？
 
 ## NVIDIA 反垄断调查深度解析：历史、背景及未来思辨
@@ -2752,6 +2758,8 @@ Tesla區塊鏈共同創辦人觀察到目前市場情緒與初期新冠疫情時
     <img src="https://img.youtube.com/vi/ABPe_MZwxq4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/ABPe_MZwxq4.md)
 
 # 玩遊戲賺錢？鏈遊最底層的邏輯！MATR1X創辦人來了！
 
