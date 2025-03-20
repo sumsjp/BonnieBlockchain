@@ -137,10 +137,10 @@ def convert_script(video_file, output_file):
         logger.info(f"開始轉換影片：{video_file}")
         result = model.transcribe(
             video_file,
-            # language="zh",
-                task="transcribe",
-            fp16=(device == "cuda")  # 只在 GPU 上使用 FP16
-            )
+            task="transcribe",
+            verbose=True,
+            fp16=(device == "cuda")
+        )
             
         # 儲存文字稿
         with open(output_file, 'w', encoding='utf-8') as f:
