@@ -254,7 +254,7 @@ def transcribe_script():
             
         # 取得檔名（不含副檔名）
         video_id = os.path.splitext(subtitle_name)[0]
-        subtitle_file = f"{subtitle_dir}{subtitle_name}.txt"
+        subtitle_file = f"{subtitle_dir}{video_id}.txt"
         transcript_file = f"{transcript_dir}{video_id}.md"
         
         # 如果還沒有對應的 transcript 檔案

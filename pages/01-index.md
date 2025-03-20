@@ -638,6 +638,8 @@ USDC 為由 Circle 公司發行的美元穩定幣，其設計目標是與美元�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/92gOnBJKPVw.md)
+
 # 瘋狂！比特幣暴漲！超級巨鯨買壓進場！
 
 以下是根據你提供的文章內容，詳細客觀地重寫的資訊，包含所有細節，且不夾雜個人意見：
@@ -1570,6 +1572,8 @@ Celcius事件警示用户，在参与任何金融产品或平台（包括加密�
     <img src="https://img.youtube.com/vi/798kFcanQz4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/798kFcanQz4.md)
 
 # 抓到了！最被忽略的FTX事件首腦！嘴快！不小心承認犯罪！
 

@@ -1027,6 +1027,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/8JDgnCWdAoc.md)
+
 # 傳統金錢思維可能不正確！MicroStrategy 比特幣的世紀操作！Michael Saylor
 
 ## 对MicroStrategy创始人Michael Sayler的采访细节整理

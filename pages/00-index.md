@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/9FoK12zt2lQ.md)
+
 # 哪一種穩定幣好？大戰開打！ USDT | USDC | BUSD | DAI
 
 ## 穩定幣全面分析：USDT、USDC、DAI、BUS D詳解
@@ -737,6 +739,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/9Vkt9Q6PlVk.md)
+
 # 關於V神你可能不知道的事！幣圈年紀最小億萬富豪！不斷有人送錢進貢！燒掉66億美金！玩電玩鬧脾氣！省錢省出病！
 
 ## 以太坊創始人維塔利克．布特林的生平和經歷（基於文章整理）
@@ -1306,6 +1310,8 @@ USDT作為加密貨幣市場主要的穩定幣，近期面臨諸多負面訊息�
     <img src="https://img.youtube.com/vi/8b5kFyBWQJU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/8b5kFyBWQJU.md)
 
 # 密切關注！近期可能發生的大規模清算！
 
