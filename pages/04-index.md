@@ -355,6 +355,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/2lqWYoHU6vs.md)
+
 # NVIDIA黃仁勳：2025年的超強AI！大多數人不知情！你不能錯過這次機會！
 
 ## 重寫後的全文，盡力保持原始細節及結構
@@ -1244,6 +1246,8 @@ Sayler认为，比特币是一次“奇点”（singularity），因为这是人
     <img src="https://img.youtube.com/vi/c-ACsFp81Bs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/c-ACsFp81Bs.md)
 
 # 戲劇化商業鬥爭！OpenSea怎麼輸掉NFT市場？Magic Eden、BLUR商業鬥爭！
 
@@ -2148,6 +2152,8 @@ Vitalik Buterin本人親自現身活動，並搭乘捷運，展現了他的親�
     <img src="https://img.youtube.com/vi/BFaPd21ETfA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/BFaPd21ETfA.md)
 
 # 幣圈冷錢包是什麼？最暴力的Tangem開箱！
 

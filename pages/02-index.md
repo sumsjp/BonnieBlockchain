@@ -606,6 +606,8 @@ Caroline Ellison 證詞，她解釋了 SBF 如何指示 Alameda 使用 FTX 客�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/BTVSC0fk2JQ.md)
+
 # 比特幣專家預期翻倍！幣圈發生什麼事？
 
 ## 比特幣現貨ETF申請進展及輝度信託的轉型之路：詳細分析
@@ -1562,6 +1564,8 @@ OKX 推出的AA智能合约钱包是区块链技术发展的一个重要趋势�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/bjxw6djppYM.md)
+
 # 你的眼球值多少錢？邊看邊背脊發涼！
 
 ## Worldcoin 專案深度解析：技術、爭議與未來展望 (基於原文資訊整理)
@@ -1880,6 +1884,8 @@ ETF市场主要由黑岩（35%） Vanguard 和 State Street (15-20%) 三家公�
     <img src="https://img.youtube.com/vi/b6j8qZ3Wt8k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[Transcript](../transcript/b6j8qZ3Wt8k.md)
 
 # 傳統金融帶大錢進幣圈......？
 

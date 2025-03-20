@@ -2687,6 +2687,8 @@ OKAX、BN（Binance）、派网（Bybit）等交易所为用户争取了最高8�
         alt="[Youtube]" width="200">
 </a>
 
+[Transcript](../transcript/BzIVJsaEOKg.md)
+
 # 曝光！2024頂級幣圈機構分析師手上持倉！千頁機構報告總整理！
 
 ## 2024 年币圈趋势分析与策略：深度解析报告内容
