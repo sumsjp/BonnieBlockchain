@@ -158,14 +158,7 @@ def download_video(df):  # Changed from download_audio
         video_id = df.loc[idx, 'id']
         
         video_file = f"{video_dir}/{video_id}.webm"  # Changed from audio_file and .mp3
-        script_file = f"{subtitle_dir}/{video_id}.txt"
         
-        # 檢查是否有字幕檔案，若有則刪除影片檔案
-        if os.path.exists(script_file):
-            if os.path.exists(video_file):
-                os.remove(video_file)
-            continue
-
         # 檢查檔案是否已存在
         if os.path.exists(video_file):
             continue
@@ -469,10 +462,10 @@ def email_notify(new_df):
 if __name__ == '__main__':
     logger.info("開始執行更新程序")
     df, new_df = update_list()
-    # update_date(df)
-    # download_video(df)  # Changed from download_audio
-    # convert_subtitle()
-    summerize_script()
-    create_doc(df)
-    email_notify(new_df)
+    update_date(df)
+    download_video(df)  # Changed from download_audio
+    convert_subtitle()
+    # summerize_script()
+    # create_doc(df)
+    # email_notify(new_df)
     logger.info("更新程序完成")
