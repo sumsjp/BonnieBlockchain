@@ -296,6 +296,9 @@ def make_doc(filename: str, video_list: list, reverse):
 # {title}
 
 {summary_file}
+
+---
+
 </details>
 
 """
@@ -356,7 +359,8 @@ def create_readme_doc(max_idx, latest_date, batch_size, reverse):
         start_idx = i * batch_size + 1
         end_idx = min((i + 1) * batch_size, max_idx)
         content += f"- [{start_idx:04d}~{end_idx:04d}](pages/{i:02d}-index.md)\n"
-        content += "\n---\n"
+        
+    content += "\n---\n"
 
     with open(readme_file, 'w', encoding='utf-8') as f:
         f.write(content)
