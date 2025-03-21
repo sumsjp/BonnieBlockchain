@@ -1,4 +1,20 @@
 <details>
+<summary>259. [2025-03-21] 川普幣圈最新談話！紐約現場機構極度樂觀！</summary><br>
+
+<a href="https://www.youtube.com/watch?v=1gtD_HV8q2U" target="_blank">
+    <img src="https://img.youtube.com/vi/1gtD_HV8q2U/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 川普幣圈最新談話！紐約現場機構極度樂觀！
+
+
+
+---
+
+</details>
+
+<details>
 <summary>258. [2025-03-20] 2025世界就業報告！哪些工作最搶手？哪些即將消失？哪些大幅加薪？哪些科系熱門？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=nku9Du2Zvu8" target="_blank">
