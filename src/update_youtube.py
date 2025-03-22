@@ -30,7 +30,7 @@ readme_file = os.path.join(base_dir, 'README.md')
 
 # under src_dir
 subtitle_dir = os.path.join(src_dir, 'subtitle/')
-video_dir = os.path.join(base_dir, 'video_dir/')
+video_dir = os.path.join(src_dir, 'video/')
 csv_file = os.path.join(src_dir, 'video_list.csv')
 
 
@@ -161,7 +161,7 @@ def download_video(df):  # Changed from download_audio
     lst = reversed(df.index)
     for idx in lst:
         if download_count >= max_downloads:
-            logger.info(f"已達到最大下載數量 ({max_downloads})")
+            logger.info(f"download_video: 已達到最大下載數量 ({max_downloads})")
             break
             
         video_id = df.loc[idx, 'id']
@@ -173,20 +173,21 @@ def download_video(df):  # Changed from download_audio
         if os.path.exists(script_file):
             if os.path.exists(video_file):
                 os.remove(video_file)
+                logger.info(f"download_video: 刪除影片：{video_file}")  # Changed message
             continue
 
         # 檢查檔案是否已存在
         if os.path.exists(video_file):
             continue
             
-        logger.info(f"下載影片中：{idx}:{video_id}")  # Changed message
+        logger.info(f"download_video: 下載影片中：{idx}:{video_id}")  # Changed message
         success = False
         try:
-            download_video_file(video_id)  # Changed from download_audio_file
+            download_video_file(video_id, video_dir)  # Changed from download_audio_file
             download_count += 1
             success = True                                                   
         except Exception as e:
-            logger.error(f"下載失敗 {idx}:{video_id}: {str(e)}")
+            logger.error(f"download_video: 下載失敗 {idx}:{video_id}: {str(e)}")
             exit(0)
           
     return df
@@ -215,13 +216,13 @@ def convert_subtitle():
                 processed_count += 1
                 
             except Exception as e:
-                logger.error(f"字幕產生失敗 {fname}: {str(e)}")
+                logger.error(f"convert_subtitle: 字幕產生失敗 {fname}: {str(e)}")
                 continue
     
     if processed_count > 0:
-        logger.info(f"完成 {processed_count} 個檔案的字幕")
+        logger.info(f"convert_subtitle: 完成 {processed_count} 個檔案的字幕")
     else:
-        logger.info("沒有需要處理的檔案")
+        logger.info("convert_subtitle: 沒有需要處理的檔案")
 
 def transcribe_script():
     """
@@ -311,25 +312,25 @@ def summerize_script():
                         break
                     try_count += 1
                     if try_count > 10:
-                        raise Exception(f"無法產生中文摘要")
+                        raise Exception(f"summerize_script: 無法產生中文摘要")
                     else:
-                        logger.warning(f"中文比例過低 ({chinese_ratio:.2f}):第{try_count}次")
+                        logger.warning(f"summerize_script: 中文比例過低 ({chinese_ratio:.2f}):第{try_count}次")
             
                 # 寫入摘要檔案
                 with open(summary_file, 'w', encoding='utf-8') as f:
                     f.write(summary_text)
                 
-                logger.info(f"摘要已儲存：{summary_file}")
+                logger.info(f"summerize_script: 摘要已儲存：{summary_file}")
                 processed_count += 1
                 
             except Exception as e:
-                logger.error(f"摘要產生失敗 {fname}: {str(e)}")
+                logger.error(f"summerize_script: 摘要產生失敗 {fname}: {str(e)}")
                 continue
     
     if processed_count > 0:
-        logger.info(f"完成 {processed_count} 個檔案的摘要")
+        logger.info(f"summerize_script: 完成 {processed_count} 個檔案的摘要")
     else:
-        logger.info("沒有需要處理的檔案")
+        logger.info("summerize_script: 沒有需要處理的檔案")
 
 def make_doc(filename: str, video_list: list, reverse):
     """
