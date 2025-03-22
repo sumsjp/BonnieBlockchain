@@ -101,7 +101,7 @@ def download_subtitle(video_id, preferred_langs):
 
     return subtitle_text, formatted_date
 
-def download_video_file(video_id):
+def download_video_file(video_id, video_dir):
     """
     下載 YouTube 影片檔案
     Args:
@@ -118,7 +118,6 @@ def download_video_file(video_id):
 
     try:
         # 確保影片目錄存在
-        video_dir = os.path.dirname(os.path.abspath(__file__)) + '/../video/'
         os.makedirs(video_dir, exist_ok=True)
 
         # 設定完整的輸出路徑
@@ -130,11 +129,11 @@ def download_video_file(video_id):
             ydl.download([video_url])
             
         output_file = os.path.join(video_dir, f"{video_id}.webm")
-        logger.info(f"影片下載完成：{output_file}")
+        logger.info(f"download_video_file: 影片下載完成：{output_file}")
         return output_file
         
     except Exception as e:
-        logger.error(f"影片下載失敗 {video_id}: {str(e)}")
+        logger.error(f"download_video_file: 影片下載失敗 {video_id}: {str(e)}")
         return ""
 
 def convert_script(video_file, output_file):
