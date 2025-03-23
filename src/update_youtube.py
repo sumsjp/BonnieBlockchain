@@ -166,7 +166,7 @@ def download_video(df):  # Changed from download_audio
             
         video_id = df.loc[idx, 'id']
         
-        video_file = f"{video_dir}/{video_id}.webm"  # Changed from audio_file and .mp3
+        video_file = f"{video_dir}\\{video_id}.webm"  # Changed from audio_file and .mp3
         script_file = f"{subtitle_dir}/{video_id}.txt"
         
         # 檢查是否有字幕檔案，若有則刪除影片檔案
