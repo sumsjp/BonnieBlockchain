@@ -1,4 +1,20 @@
 <details>
+<summary>261. [2025-03-27] 法國資安專家：你的電腦有漏洞！Google、冷錢包、以太坊全上榜！Bybit駭客事件解讀！</summary><br>
+
+<a href="https://www.youtube.com/watch?v=ibYUIwsJXtk" target="_blank">
+    <img src="https://img.youtube.com/vi/ibYUIwsJXtk/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 法國資安專家：你的電腦有漏洞！Google、冷錢包、以太坊全上榜！Bybit駭客事件解讀！
+
+
+
+---
+
+</details>
+
+<details>
 <summary>260. [2025-03-25] 東西方金融YouTuber交手：總結頂尖經濟學家意見！經濟可能進入巨烈疼痛期？feat. @TheDavidLinReport</summary><br>
 
 <a href="https://www.youtube.com/watch?v=u_UV-w3ugHM" target="_blank">
