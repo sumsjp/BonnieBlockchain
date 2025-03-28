@@ -166,24 +166,27 @@ def download_video(df):  # Changed from download_audio
             
         video_id = df.loc[idx, 'id']
         
-        video_file = f"{video_dir}\\{video_id}.webm"  # Changed from audio_file and .mp3
+        # 檢查兩種可能的影片格式
+        video_file_webm = f"{video_dir}\\{video_id}.webm"
+        video_file_mp4 = f"{video_dir}\\{video_id}.mp4"
         script_file = f"{subtitle_dir}/{video_id}.txt"
         
         # 檢查是否有字幕檔案，若有則刪除影片檔案
         if os.path.exists(script_file):
-            if os.path.exists(video_file):
-                os.remove(video_file)
-                logger.info(f"download_video: 刪除影片：{video_file}")  # Changed message
+            for video_file in [video_file_webm, video_file_mp4]:
+                if os.path.exists(video_file):
+                    os.remove(video_file)
+                    logger.info(f"download_video: 刪除影片：{video_file}")
             continue
 
-        # 檢查檔案是否已存在
-        if os.path.exists(video_file):
+        # 檢查檔案是否已存在（任一格式）
+        if os.path.exists(video_file_webm) or os.path.exists(video_file_mp4):
             continue
             
-        logger.info(f"download_video: 下載影片中：{idx}:{video_id}")  # Changed message
+        logger.info(f"download_video: 下載影片中：{idx}:{video_id}")
         success = False
         try:
-            download_video_file(video_id, video_dir)  # Changed from download_audio_file
+            download_video_file(video_id, video_dir)
             download_count += 1
             success = True                                                   
         except Exception as e:
@@ -196,8 +199,8 @@ def convert_subtitle():
     # 確保 summary 目錄存在
     os.makedirs(subtitle_dir, exist_ok=True)
     
-    # 取得所有 subtitle 目錄下的 txt 檔案
-    video_files = [f for f in os.listdir(video_dir) if f.endswith('.webm')]
+    # 取得所有 subtitle 目錄下的 webm 和 mp4 檔案
+    video_files = [f for f in os.listdir(video_dir) if f.endswith(('.webm', '.mp4'))]
     
     # 計數器
     processed_count = 0
@@ -357,10 +360,6 @@ def make_doc(filename: str, video_list: list, reverse):
 
 </details>
 
-"""
-
-    # 圖片模板
-    image_template = """
 """
 
     try:
