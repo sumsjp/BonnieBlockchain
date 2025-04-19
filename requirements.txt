@@ -5,5 +5,5 @@ markdown
 zhconv
 requests
 openai
-openai-whisper 
+whisper-openai
 google-generativeai
