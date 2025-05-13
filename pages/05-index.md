@@ -1,4 +1,95 @@
 <details>
+<summary>276. [2025-05-13] 幣價預期狂升！Bitwise揭內幕：決定比特幣價的3個關鍵指標！│ Matt Hougan │紐約數位資產峰會DAS 2025feat. @TheDavidLinReport</summary><br>
+
+<a href="https://www.youtube.com/watch?v=dJ5kNrE1ok0" target="_blank">
+    <img src="https://img.youtube.com/vi/dJ5kNrE1ok0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# 幣價預期狂升！Bitwise揭內幕：決定比特幣價的3個關鍵指標！│ Matt Hougan │紐約數位資產峰會DAS 2025feat. @TheDavidLinReport
+
+好的，我為您整理了這篇文稿，重點提取如下：
+
+**主要觀點：**
+
+*   **比特幣價格預測：** Bitwise 首席投資官 Matt Hogan 預測，比特幣年底前將突破 20 萬美元。
+*   **價格上漲的驅動因素：**
+    *   ETF 資金流入。
+    *   企業（如 MicroStrategy 和 MetaPlanet）持續購買比特幣。
+    *   各國政府開始購買比特幣。
+*   **政府購買比特幣：**
+    *   美國已經建立了戰略比特幣儲備。
+    *   預計今年將有 10 個甚至更多國家首次配置比特幣。
+    *   阿布達比已購買了 5 億美元的比特幣。
+*   **對經濟衰退的看法：**
+    *   如果發生嚴重衰退，可能難以達到 20 萬美元的目標。
+    *   預計各國政府會介入支持經濟，避免嚴重衰退。
+*   **對 XRP 的看法：**
+    *   XRP 是一個運行時間長、成本低、交易量大的區塊鏈。
+    *   但其主要用例（B2B、國際支付）尚未實現。
+    *   Bitwise 提交了 XRP ETF 的申請。
+*   **對 DeFi 的看法：**
+    *   DeFi 活動處於歷史高點。
+    *   Uniswap、Aave 等 OG DeFi 代幣有被重新估值的機會。
+    *   預計今年年底可能出現 DeFi 繁榮。
+*   **投資建議：**
+    *   長期投資者應堅持配置加密貨幣。
+    *   在市場回調時買入（buy the dip）。
+    *   比特幣是目前最乾淨的投資標的。
+    *   長期投資者可以考慮以太坊和 Solana。
+*   **對迷因幣（meme coin）的看法：**
+    *   不建議投資大多數迷因幣，因為它們來去匆匆，且受內部人士控制。
+    *   Dogecoin 已經存在很長時間，沒有內部人士，所以還可以，但不是金融的未來。
+*   **比特幣與那斯達克的關聯：**
+    *   當那斯達克面臨挑戰時，比特幣會下跌，但隨後會大幅反彈。
+    *   長期來看，比特幣的前景比過去更好，因此下跌是買入的機會。
+
+**重要人物：**
+
+*   Matt Hogan (Bitwise CIO)
+*   Dave Lin
+*   Bonnie Chay (Bonnie Blockchain)
+
+**其他提及的加密貨幣：**
+
+*   以太坊 (Ethereum)
+*   Solana
+*   Cardano
+*   狗狗幣 (Dogecoin)
+
+**關鍵字：**
+
+*   比特幣 (Bitcoin)
+*   ETF
+*   DeFi
+*   經濟衰退 (Recession)
+*   XRP
+*   迷因幣 (Meme coin)
+
+**總結：**
+
+這段文稿主要圍繞著比特幣的未來價格預測、影響因素以及對其他加密貨幣和 DeFi 領域的看法。 Matt Hogan 的觀點偏向樂觀，認為比特幣在未來將持續增長，而 DeFi 領域也有望迎來新的發展。
+
+**如果您有其他整理需求，請隨時告訴我，例如：**
+
+*   更簡潔的摘要
+*   特定主題的提取
+*   重點語句的標註
+*   表格化整理
+*   等等
+
+我會盡力滿足您的要求。
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>275. [2025-04-20] 提升人生勝率六絕招！升遷、人際槓桿、商業貿易戰都超好用！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=VATB6d_6JiI" target="_blank">
