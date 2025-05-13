@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 北韓駭客從小地獄訓練！歡迎來到黑客的養成之路！
 
 ## 區塊鏈資安事件解析與洗錢手段披露
@@ -63,6 +65,8 @@ Torando Cash用戶數量下降，流動性受挫。 駭客轉而使用SIMBAT等�
     <img src="https://img.youtube.com/vi/Es05cKyFxx0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈最被討厭的人！從台上被轟到台下！到底發生什麼事？
 
@@ -126,6 +130,8 @@ Gensler表示，只要非美国公司与美国人有交易，SEC就会采取行�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈大佬當街刺死！馬斯克：「我身邊很多人被威脅！」
 
 ## Bob Lee 遭<0xE5><0xA2><0xAC>命事件事件梳理
@@ -167,6 +173,8 @@ Bob Lee的意外猝逝震驚金融科技及加密貨幣圈。部分人士推測�
     <img src="https://img.youtube.com/vi/ZrFT0p8XE70/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 倒數邁入沒有現金的世界！90%國家推CBDC 中央數位貨幣！要方便？要自由？你會怎麼選？
 
@@ -227,6 +235,8 @@ CBDC是指各國央行或政府發行的法幣數位化形式。在現今社會�
     <img src="https://img.youtube.com/vi/nvzXLGpN7O0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 在幣圈交易所工作是什麼樣子？國際級駭客！數學博士！XREX交易所神人大集合！
 
@@ -292,6 +302,8 @@ X-Rex的最終目標是串聯真實的金融世界與鏈上的金融世界。“
 
 [Transcript](../transcript/3W0hAhQ4n_c.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 絕美製圖瞬間上手！馬上學會AI自己！Midjourney 大補帖懶人包來了！超簡單！
 
 ## Midjourney AI繪圖教學與咒語靈感整理
@@ -340,6 +352,8 @@ X-Rex的最終目標是串聯真實的金融世界與鏈上的金融世界。“
     <img src="https://img.youtube.com/vi/pSX3ZrV5H8g/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣安面臨極大危機！最詳盡總整理！過去48小時到底發生什麼事？美國商品期貨委員會的攻防！
 
@@ -397,6 +411,8 @@ Binance 針對這些指控做出多項回應：
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 直擊幣圈巨星Do Kwon被捕現場！成功騙百億逃亡！卻敗在一個細節！
 
 ## TERA-LUNA崩潰事件始作俑者DouKwan逮捕簡介
@@ -436,6 +452,8 @@ DouKwan在2022年遭到南韓警方發出逮捕令，並受到國際刑警組織
     <img src="https://img.youtube.com/vi/pooeCH3eO64/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2023年最關鍵的會議！極少數精英說了算！決定世界命運！大勢已定！
 
@@ -488,6 +506,8 @@ DouKwan在2022年遭到南韓警方發出逮捕令，並受到國際刑警組織
 </a>
 
 [Transcript](../transcript/1RDf-mn3mPY.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 微軟 AI Copilot 發表會懶人包！不要問我為什麼跪著！看完直接加薪！
 
@@ -548,6 +568,8 @@ Copilot 目前已開啟測試階段並提供給部分客戶使用，预计在未
 
 [Transcript](../transcript/2aQ0TQ99pms.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 瑞士信貸即將引爆！巨大金融海嘯！發生什麼事？
 
 ## 瑞士信貸面臨危機：事件梳理及背景解析
@@ -593,6 +615,8 @@ Copilot 目前已開啟測試階段並提供給部分客戶使用，预计在未
     <img src="https://img.youtube.com/vi/f1k3EZr7Duk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 穩定幣接連陷入危機！驚險始末！
 
@@ -640,6 +664,8 @@ USDC 為由 Circle 公司發行的美元穩定幣，其設計目標是與美元�
 
 [Transcript](../transcript/92gOnBJKPVw.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 瘋狂！比特幣暴漲！超級巨鯨買壓進場！
 
 以下是根據你提供的文章內容，詳細客觀地重寫的資訊，包含所有細節，且不夾雜個人意見：
@@ -683,6 +709,8 @@ USDC 為由 Circle 公司發行的美元穩定幣，其設計目標是與美元�
     <img src="https://img.youtube.com/vi/VOp0U_B2gTQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 1週3家銀行倒閉！到底發生什麼事？
 
@@ -741,6 +769,8 @@ USDC 為由 Circle 公司發行的美元穩定幣，其設計目標是與美元�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 啊哈！華人幣圈大佬！流量擔當來了！
 
 以下是根据提供的访谈记录整理的摘要叙述：
@@ -780,6 +810,8 @@ USDC 為由 Circle 公司發行的美元穩定幣，其設計目標是與美元�
     <img src="https://img.youtube.com/vi/fOfrx8rFmTk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣崩跌！幣圈巨人倒下！產業窒息！
 
@@ -838,6 +870,8 @@ Silvergate Bank 的危機反映了加密產業面臨的挑戰與風險，也暴�
 </a>
 
 [Transcript](../transcript/6HToL6aJCEo.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 惡意市場操縱！經典教科書案例！CELT 與 OKX 的對決！
 
@@ -898,6 +932,8 @@ CELT事件引起了加密货币社群的关注与讨论，也为投资者提供�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 詳解幣圈第二層！Rollup、ZK Rollup、Opimistic Rollup！
 
 ## Rollup 技術解析：8分鐘全面講解
@@ -954,6 +990,8 @@ Rollups是一種層2擴容解决方案，旨在提高以太坊等區塊鏈的可
 
 [Transcript](../transcript/bzDEUOXwTxc.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈大佬們不忍了！爆出核彈等級內幕！
 
 ## 区塊链监管观察：多方观点与事件聚焦
@@ -1000,6 +1038,8 @@ Rollups是一種層2擴容解决方案，旨在提高以太坊等區塊鏈的可
     <img src="https://img.youtube.com/vi/ldFHkgbTfaw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 近乎病態的操作！幣圈寒冬背後的真相！
 
@@ -1049,6 +1089,8 @@ Rollups是一種層2擴容解决方案，旨在提高以太坊等區塊鏈的可
     <img src="https://img.youtube.com/vi/qec9bo4cR9Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈宣戰！天要亡我！那我就......漲！
 
@@ -1101,6 +1143,8 @@ CZ认为，只要穩定幣掛鉤的法幣本身是穩定的，那麼人們是願
     <img src="https://img.youtube.com/vi/ZLZeI5_hs_A/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈人常被分手？吸引力指數大公開！
 
@@ -1165,6 +1209,8 @@ CZ认为，只要穩定幣掛鉤的法幣本身是穩定的，那麼人們是願
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 大規模屠殺計畫！幣圈這幾天發生什麼事？
 
 好的，以下是对文章内容的详细、客观重写，尽可能包含所有细节，并避免加入个人观点。
@@ -1222,6 +1268,8 @@ CZ表示币安将配合监管，同时寻找其他的稳定币作为交易对，
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 能找到任何人！近乎瘋狂的超強科技！
 
 本文描述了一名自稱Bonnie的探險家尋找FTX交易所創辦人Samuel Bankman-Fried（SBF）進行採訪的經歷，並介紹了她成功找到聯繫方式的工具 Apollo.io。
@@ -1272,6 +1320,8 @@ Bonnie在影片最後鼓勵觀眾分享這個有用的工具，並期待收到�
     <img src="https://img.youtube.com/vi/ikiWZDtwcxg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 為什麼比特幣在「這個國家」價格直接翻倍？
 
@@ -1334,6 +1384,8 @@ Bonnie在影片最後鼓勵觀眾分享這個有用的工具，並期待收到�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 被警告不能講！幣圈富豪一連串離奇死亡案件！
 
 **幣圈高資產人士殞逝與資產失蹤事件彙報**
@@ -1386,6 +1438,8 @@ Bonnie在影片最後鼓勵觀眾分享這個有用的工具，並期待收到�
 
 [Transcript](../transcript/7XIF-EDU2VY.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 人生立刻開外掛的方法！免費AI可以幫你做的5件事！馬上超越全人類智商！ChatGPT人工智能的時代來臨！
 
 ## Chat GPT 功能與應用潛力探討
@@ -1436,6 +1490,8 @@ Chat GPT 是一個人工智慧（AI）語言模型，能夠理解和生成自然
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 開眼界了！私人飛機送網購！有錢居然是這樣花的！幣圈食物鏈！
 
 # FTX前員工爆料事件詳解
@@ -1479,6 +1535,8 @@ FTX在巴哈馬的公司內部設置了一個精神科醫生，為員工提供�
     <img src="https://img.youtube.com/vi/ymt8Ve27UYw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 小心！致命的細節！散戶居然是這樣被大鯨魚欺負！
 
@@ -1535,6 +1593,8 @@ Celcius事件警示用户，在参与任何金融产品或平台（包括加密�
 
 [Transcript](../transcript/Aij79ngd_eY.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 近乎瘋狂的金融操作！幣圈史上最危險的時刻出現！血洗比特幣的最後一張骨牌！
 
 ## 关于三箭資本、Genesis、DCG及GBTC事件的詳細敘述
@@ -1578,6 +1638,8 @@ Celcius事件警示用户，在参与任何金融产品或平台（包括加密�
 </a>
 
 [Transcript](../transcript/798kFcanQz4.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 抓到了！最被忽略的FTX事件首腦！嘴快！不小心承認犯罪！
 
@@ -1629,6 +1691,8 @@ Celcius事件警示用户，在参与任何金融产品或平台（包括加密�
     <img src="https://img.youtube.com/vi/JnapwNidnD8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 前女友背叛自衛！SBF天價交保！該不會又是用戶的錢吧？
 
@@ -1684,6 +1748,8 @@ SBF 的律師團隊正在努力争取他在美国被保釋的条件，希望他�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # FTX背後大BOSS現身！太可怕了！SBF半夜緊急送醫！完全惹不起！
 
 ## FTX創辦人SBF個案事件經過整理
@@ -1729,6 +1795,8 @@ SBF 的律師團隊正在努力争取他在美国被保釋的条件，希望他�
     <img src="https://img.youtube.com/vi/OuXUNm0nHA8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣安被圍攻！SBF在牢裡害CZ？極端壓力測試！幣安撐得住嗎？
 
@@ -1781,6 +1849,8 @@ Kevin O’Leary 认为币安已经大到獨佔市場了，並質疑中心化交�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 以太坊V神！在台北區塊鏈週！與神同行的一天！
 
 ## Vitalik 的分享內容整理
@@ -1828,6 +1898,8 @@ Vitalik 強烈鼓勵人們持續創新，嘗試各種解決問題的方案，並
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 麻省理工矽谷金童！擠進破爛監獄！FTX聽證會開打！
 
 ## FTX 崩潰事件與美國眾議院聽證會整理
@@ -1873,6 +1945,8 @@ SBF 聲稱讓那裡投資者在Bahamas 錢都被取消了，因為他認為交�
     <img src="https://img.youtube.com/vi/ziV68YqVzWQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈的下一張骨牌？幣安這24小時發生什麼事？
 
@@ -1925,6 +1999,8 @@ SBF 聲稱讓那裡投資者在Bahamas 錢都被取消了，因為他認為交�
 
 [Transcript](../transcript/2gvc0LgnNfQ.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈交易所！出來面對！內幕大解密！
 
 ## 幣圈洞察與未來展望：對話與深度探討（基於訪談重構）
@@ -1976,6 +2052,8 @@ SBF 聲稱讓那裡投資者在Bahamas 錢都被取消了，因為他認為交�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 4年一次的機會！2024年比特幣牛市即將啟動！
 
 以下為對上述影片內容的詳細整理：
@@ -2020,6 +2098,8 @@ SBF 聲稱讓那裡投資者在Bahamas 錢都被取消了，因為他認為交�
     <img src="https://img.youtube.com/vi/eiLNbW6c75M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈關鍵時刻曝光！
 
@@ -2073,6 +2153,8 @@ SBF 聲稱讓那裡投資者在Bahamas 錢都被取消了，因為他認為交�
     <img src="https://img.youtube.com/vi/yLHZRIsQIn8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈骨牌開始倒了！死神敲門！下一個輪到誰？
 
@@ -2128,6 +2210,8 @@ BlockFi 在申請破產保護後，向美國紐澤西州法院提出起訴目標
     <img src="https://img.youtube.com/vi/kLlFnSvEJ_Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈史上最大危機出現！骨牌開始倒了！比特幣最大持有人危險！
 
@@ -2192,6 +2276,8 @@ FTX的崩潰引發了Genesis的資金危機，並間接影響到持有大量比�
     <img src="https://img.youtube.com/vi/cHXT18r-YmQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # FTX詐騙案！駭客比你想得還大咖！
 
@@ -2262,6 +2348,8 @@ FTX事件是一個涉及複雜資金流動、管理不善以及潛在違法行�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # FTX詐騙案！比你想得更誇張！
 
 ## FTX 崩盤事件及 SBM 專訪內容整理
@@ -2310,6 +2398,8 @@ FTX 崩盤事件不僅造成大量資金流失，也引發了對 SBM 個人行�
     <img src="https://img.youtube.com/vi/Ms_cpjcPwhc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 破產重組！FTX賠償順序！用戶拿得到錢嗎？
 
@@ -2380,6 +2470,8 @@ FTX 在服務條款中明確規定，用戶的資產所有權歸用戶所有，�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # SBF駭FTX？CZ早知情？複雜的戀愛關係！最新陰謀論浮出水面！
 
 這是根據提供的文章內容編寫的詳細、客觀重述，力求包含所有細節，不添加任何個人意見：
@@ -2431,6 +2523,8 @@ FTX被爆出其系統內部存在後門，允許其創始人Sam Bankman-Fried (S
     <img src="https://img.youtube.com/vi/myQ9U65YwUk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # FTX破產！24小時內到底發生了什麼事？
 
@@ -2488,6 +2582,8 @@ FTX 崩盘不僅影響了 FTX 及阿拉梅達研究的客户，也引发了整�
     <img src="https://img.youtube.com/vi/NhGoArRITZI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣安「不買FTX」！幣圈大崩盤即將來臨！
 
@@ -2549,6 +2645,8 @@ Alameda Research 的營運方式與過去的三箭資本(Three Arrow Capital)相
 
 [Transcript](../transcript/1OTmyCi22XA.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 最慘的居然還沒來！科技股全面崩盤！歷史重演！大舉裁員！
 
 ## 美国科技股近期表现及其原因分析（基于文章整理）
@@ -2604,6 +2702,8 @@ Alameda Research 的營運方式與過去的三箭資本(Three Arrow Capital)相
     <img src="https://img.youtube.com/vi/I6UdQ5Mn-hM/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣安CZ要買FTX？！
 

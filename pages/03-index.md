@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 頂級金融核心圈！正在對幣圈暗中盤算什麼？
 
 ## 美國總統大選與加密貨幣市場：局勢分析與最新發展
@@ -47,6 +49,8 @@ OKX、閉安派網，及其他交易平台正協助爭取並提供相關資訊�
 </a>
 
 [Transcript](../transcript/46zKBQFe5gY.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 川普副手是誰？持有比特幣！川普槍擊警察早獲報？最親幣圈政策？
 
@@ -94,6 +98,8 @@ J.D. Vance透過公開言論、個人投資以及參與比特幣相關活動，�
     <img src="https://img.youtube.com/vi/wFxrMPLo-Zc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 川普槍手背景曝光！竟然出現在貝萊德廣告裡！陰謀論？
 
@@ -152,6 +158,8 @@ J.D. Vance透過公開言論、個人投資以及參與比特幣相關活動，�
     <img src="https://img.youtube.com/vi/diPRoUgps0U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 遇到Youtube創辦人！Youtuber Met the Founder of Youtube ft. @EmmaSleepTaiwan
 
@@ -215,6 +223,8 @@ J.D. Vance透過公開言論、個人投資以及參與比特幣相關活動，�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 死傷慘重！這次幣圈週期很難賺錢？你服嗎？
 
 ## 幣圈行情深度解析 (依文字稿整理，不含個人意見)
@@ -271,6 +281,8 @@ OKX正式上線了Arbitrum USDC鏈上的Compound V3鏈上賺幣產品，使用�
 
 [Transcript](../transcript/_hDUyPp50iU.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NVIDIA黃仁勳給年輕人的忠告！你的人生策略應該是這樣子！不看真的太可惜！
 
 好的，以下是根据您提供的文章内容详细、客觀的重寫，並力求保留所有細節，不加入個人意見分析:
@@ -326,6 +338,8 @@ OKX正式上線了Arbitrum USDC鏈上的Compound V3鏈上賺幣產品，使用�
     <img src="https://img.youtube.com/vi/vv60ceGoYLQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 華爾街格局看幣圈！大部分機構根本還沒入場！
 
@@ -389,6 +403,8 @@ Renrenbing鼓勵观众在可承受的范围內投資，並建議小額資金在 
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 市場恐慌指數飆升！加倉時刻不遠了？
 
 ## 報導詳錄：幣圈近期動態與資訊（依原文資料整理）
@@ -430,6 +446,8 @@ Renrenbing鼓勵观众在可承受的范围內投資，並建議小額資金在 
     <img src="https://img.youtube.com/vi/Ja3S56OL9iU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 直接刷加密貨幣！神卡總整理！機場貴賓室！CRYPTO.COM 財富顧問！私人飛機！
 
@@ -507,6 +525,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
 
 [Transcript](../transcript/6wWph-8paCY.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 血洗幣圈？全面失守！崩潰！我要躺下來......
 
 以下是根据提供的文本内容，进行的详细、客观测述：
@@ -573,6 +593,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
 
 [Transcript](../transcript/-mM8KWizrw0.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈崩盤！股市新高！加密貨幣牛市結束了？
 
 ## 幣圈近況報告 (依原文內容整理)
@@ -626,6 +648,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 你家算有錢嗎？台灣財富報告！中產階級不見了！認知徹底崩塌！
 
 以下是对上述文本内容的详细客观重写：
@@ -663,6 +687,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
     <img src="https://img.youtube.com/vi/V3XzdN8-LIA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 機構仙丹失靈？斷言比特幣將漲！市場暗潮洶湧！貝萊德搞新交易所！
 
@@ -704,6 +730,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
     <img src="https://img.youtube.com/vi/MFJK0NqwVks/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # NVIDIA黃仁勳的創業課程！給你成功的鑰匙！
 
@@ -766,6 +794,8 @@ Crypto.com Private 是為頂級卡（玫瑰金、冰金白、黑金）用戶提�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NVIDIA黃仁勳的史丹佛課程！給年輕人的成功寶典！
 
 ## NVIDIA CEO 講座內容詳錄
@@ -816,6 +846,8 @@ CEO重申，公司要培养新一代領導者，並將经验传授给他们，�
     <img src="https://img.youtube.com/vi/kCwVn3gyej4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # NVIDIA黃仁勳眼中的台灣！新革命已經到來！台灣人，你該怎麼做？
 
@@ -886,6 +918,8 @@ Foxconn 工廠的案例展示了該公司如何利用 NVIDIA 的技術進行數�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NVIDIA黃仁勳給「領導者」的忠告！兩代老闆的寶藏對談！不看真的會後悔！
 
 ## Nvidia 創辦人兼 CEO Huang Ren<0x94>un (Jensen Huang) 訪談詳錄 (基於文章內容)
@@ -940,6 +974,8 @@ Huang Renxun 提到了 Stripe 的产品设计理念，即擁有美感、优雅�
 
 [Transcript](../transcript/AK_T7O9tevg.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 總統全力討好幣圈人？比特幣六月創新高！迷因幣瘋漲！華爾街虎視眈眈！
 
 ## 美國總統大選與加密貨幣市場分析
@@ -985,6 +1021,8 @@ Huang Renxun 提到了 Stripe 的产品设计理念，即擁有美感、优雅�
     <img src="https://img.youtube.com/vi/jYsGdbA4RHA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 怎麼投資加密貨幣？全網最完整の新手教戰守則！
 
@@ -1046,6 +1084,8 @@ Huang Renxun 提到了 Stripe 的产品设计理念，即擁有美感、优雅�
 
 [Transcript](../transcript/0sZIJaDRszU.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 以太現貨ETF通過！幣價怎麼走？準備幹大事！坐等機構進場！
 
 ## 對以太坊現貨 ETF 上市及幣圈可能影響之分析：整理自OKAX 頻道內容
@@ -1097,6 +1137,8 @@ OKAX 強調，機構投資者普遍不熱衷於炒幣，因此 ETF 的流入資�
     <img src="https://img.youtube.com/vi/xkAGy2DH_Sw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 以太幣暴漲！我被盜了！FTX賠償真相！TON生態潛力項目！
 
@@ -1163,6 +1205,8 @@ Carve 是一個旨在為遊戲和 AI 產業提供動力的模組化數據層項�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # Google IO大會！史上最實用的AI來了！
 
 ## 2024 Google I/O 大會內容詳述
@@ -1219,6 +1263,8 @@ Carve 是一個旨在為遊戲和 AI 產業提供動力的模組化數據層項�
     <img src="https://img.youtube.com/vi/VP2-8jIurUE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # ChatGPT 4o 發表會！這已經遠超越我對AI的認知了！嚇瘋....
 
@@ -1287,6 +1333,8 @@ Carve 是一個旨在為遊戲和 AI 產業提供動力的模組化數據層項�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 搶救幣安CZ！海量求情書奏效！以太坊接著中槍！
 
 ## 以太坊與幣安遭遇美國監管風暴：事件重述
@@ -1339,6 +1387,8 @@ ConSenSus隨後對SEC提起反訴，認為SEC試圖以不當手段監管以太�
 </a>
 
 [Transcript](../transcript/8QmThM8oBSs.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 機構給出了驚悚的幣價預測......
 
@@ -1398,6 +1448,8 @@ Glassnode 通过“累積趨勢得分”指標來評估市場參與者の行為�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 穩定幣邏輯剖析！不懂不可能賺錢！連發行商也來了！
 
 以下是對上述 Podcast transcript 的詳細重寫，盡可能保留所有細節，並避免加入個人觀點，力求客觀呈現。
@@ -1441,6 +1493,8 @@ Chris 提出，未來的趨勢可能是物理輕節點的普及，例如任何�
 </a>
 
 [Transcript](../transcript/4cH1HjMdcM4.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 超硬核！第一個喊Solana的男人大曝內幕！牛市拚翻身！Zeus Network！
 
@@ -1490,6 +1544,8 @@ Chris 提出，未來的趨勢可能是物理輕節點的普及，例如任何�
     <img src="https://img.youtube.com/vi/YHbUMAB3UPY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 緊急！比特幣剛剛減半！機構居然這時候清倉了？
 
@@ -1544,6 +1600,8 @@ Chris 提出，未來的趨勢可能是物理輕節點的普及，例如任何�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣減半來了！警告！市場即將.….
 
 ## 比特幣分析：減半前瞻與市場動態深度解析 (依文章內容呈現)
@@ -1595,6 +1653,8 @@ Chris 提出，未來的趨勢可能是物理輕節點的普及，例如任何�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 用AI做出屌打人類的音樂！太扯了！驚魂未定！
 
 ## AI音樂新趨勢探索：Sonic AI & okaxE平台深度解析
@@ -1640,6 +1700,8 @@ okaxE被定位為去中心化的音樂投票平台，音樂創作者透過平台
     <img src="https://img.youtube.com/vi/x3R-HKvlkmA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # NVIDIA黃仁勳：這世界再也回不去！
 
@@ -1711,6 +1773,8 @@ Jensen Huang总结了NVIDIA的愿景：构建一个完整的计算平台，能�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NVIDIA黃仁勳給年輕人的忠告！你要面對的世界將是這樣子的！不看真的會後悔！
 
 ## 陳省身演講文字記錄 (依原文整理)
@@ -1773,6 +1837,8 @@ Jensen Huang总结了NVIDIA的愿景：构建一个完整的计算平台，能�
 
 [Transcript](../transcript/8dv7OFHQqCA.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 這些幣噴10倍！交易所量能爆棚！即將再創新高？
 
 以下是根据文章内容的详细、客观重述，力求包含所有细节并避免任何个人观点：
@@ -1833,6 +1899,8 @@ MX是Maxi（摩擦）交易所的平台币。文章提到，MX在上次牛市中
 </a>
 
 [Transcript](../transcript/79o_dENHYKw.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 10萬滾到千萬！幣圈少年全靠這一招！
 
@@ -1902,6 +1970,8 @@ Eddy 和主持人再次強調了LINE群組的重要性，並表示會即時分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 市場極度貪婪！USDT創辦人超狂預測！再破歷史新高？終將下跌？
 
 ## 区块链观察：比特币、以太坊、科技型代币及加密货币市场分析报告
@@ -1968,6 +2038,8 @@ Eddy 和主持人再次強調了LINE群組的重要性，並表示會即時分�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣暴漲原因一次看！專家才知道的財富密碼！內行不藏私！ #比特幣
 
 ## 比特幣市場深度分析及趨勢觀察
@@ -2018,6 +2090,8 @@ FTX交易所崩盤事件提升了投資者對於資產安全的重視。越來�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈市場機會大爆發！在dYdX用這招穩穩賺美元！老大親自出馬！
 
 ## DYDX深度訪談： Charles 的技術、未來展望及DeFi監管觀點
@@ -2062,6 +2136,8 @@ Charles 认为DeFi的创新能力非常強大，需要监管部门保持开放�
     <img src="https://img.youtube.com/vi/v3oLbSeK1YE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 這整支影片都不是真的！文字轉影片AI！#SORA
 
@@ -2115,6 +2191,8 @@ Sora 是一款文字轉影片的 AI 模型，能夠根據文字指令生成影�
     <img src="https://img.youtube.com/vi/JiDpAwgSU-o/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 快來看看！你會以哪種方式變有錢人？
 
@@ -2186,6 +2264,8 @@ Sora 是一款文字轉影片的 AI 模型，能夠根據文字指令生成影�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 2024年幣圈即將爆發的賽道！超詳細懶人包！
 
 ## 區塊鏈前沿趨勢深度解析 (依據原文整理)
@@ -2244,6 +2324,8 @@ Sora 是一款文字轉影片的 AI 模型，能夠根據文字指令生成影�
 
 [Transcript](../transcript/-qo0CY3QMvI.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 扯！機構99%神準斷言比特幣價！最新預測曝光！
 
 ## 比特幣及加密貨幣市場深度解析
@@ -2298,6 +2380,8 @@ TENX RESEARCH 創始人 Marcus 预测比特币价格可能会达到 52671 美元
 
 [Transcript](../transcript/4slefC3BQvg.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 2024 全球富裕國家排行榜！不敢置信！最有錢的國家居然是….
 
 好的，我将根据你提供的文章内容，进行详细、客觀的重寫，并包含所有细节，不加入个人意见。
@@ -2344,6 +2428,8 @@ TENX RESEARCH 創始人 Marcus 预测比特币价格可能会达到 52671 美元
     <img src="https://img.youtube.com/vi/DyuouT9u3iA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 科技公司大砍人！逼人輕生！股市卻創新高！到底怎麼回事？
 
@@ -2394,6 +2480,8 @@ Morgan Stanley發布的報告對市場現狀提出了謹慎的意見。他們認
     <img src="https://img.youtube.com/vi/QWUeCtK9_Bg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 明明利好卻跌到懷疑人生！比特幣到底發生什麼事？
 
@@ -2452,6 +2540,8 @@ Morgan Stanley發布的報告對市場現狀提出了謹慎的意見。他們認
     <img src="https://img.youtube.com/vi/p9q0gTxJha4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣ETF通過！接下來幣圈怎麼走？居然炒這個啊...
 
@@ -2520,6 +2610,8 @@ OKAX、BN（Binance）、派网（Bybit）等交易所为用户争取了最高8�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣牛市根本還早？大家都錯了？預期「這」會爆火！幣圈骨灰級人物專訪！
 
 以下是基于文章内容的详细中文重述，力求客观和详尽，不包含个人意见：
@@ -2574,6 +2666,8 @@ OKAX、BN（Binance）、派网（Bybit）等交易所为用户争取了最高8�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣要發生大事了？箭在弦上！倒數...3...
 
 這是一篇關於比特幣現货ETF（交易所交易基金）批准可能性、以及可能對市場造成影響的分析性內容摘要。以下以條列式方式整理，並力求忠實原文，不加入額外個人意見。
@@ -2624,6 +2718,8 @@ OKAX、BN（Binance）、派网（Bybit）等交易所为用户争取了最高8�
     <img src="https://img.youtube.com/vi/YtdIEBK1O6s/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 緊急！比特幣幣價預測！暴漲暴跌即將來臨......
 
@@ -2688,6 +2784,8 @@ OKAX、BN（Binance）、派网（Bybit）等交易所为用户争取了最高8�
 </a>
 
 [Transcript](../transcript/BzIVJsaEOKg.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 曝光！2024頂級幣圈機構分析師手上持倉！千頁機構報告總整理！
 
@@ -2760,6 +2858,8 @@ OKAX、BN（Binance）、派网（Bybit）等交易所为用户争取了最高8�
     <img src="https://img.youtube.com/vi/u4E7DhXt3GE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2024年市場超樂觀！專家曝巨大隱藏危機！政府的計畫是這樣......
 

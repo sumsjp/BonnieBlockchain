@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 「以太坊」全爭議超精彩分析！別當傻子了！元老級人物現身說法！
 
 **以太坊與加密貨幣市場深度分析 (根據Ricky的演講內容整理)**
@@ -63,6 +65,8 @@
     <img src="https://img.youtube.com/vi/PwP2JpvsXMs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 川普關稅最新進展！對你的影響是什麼？
 
@@ -139,6 +143,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 驚人！20天美國旅遊光是小費就花了......
 
 作者描述了一趟旅程期間關於小費的體驗，以及因此產生的困惑和思考。以下為詳細的記錄：
@@ -186,6 +192,8 @@
 </a>
 
 [Transcript](../transcript/AgvdBbVE2ls.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2025年比特幣會到多少錢？8個機構專家權威預測！
 
@@ -251,6 +259,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 這可能是比特幣生態最大的機會！機構虎視眈眈的巨大熱點！
 
 ## Core 社區洞察：訪談重點整理 (基於原文)
@@ -297,6 +307,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
     <img src="https://img.youtube.com/vi/kDgtA_VGCMs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 我身邊有人1天賺了幾億！川普夫婦居然發幣！認知崩塌！幣圈大暴動！
 
@@ -357,6 +369,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
 
 [Transcript](../transcript/2lqWYoHU6vs.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NVIDIA黃仁勳：2025年的超強AI！大多數人不知情！你不能錯過這次機會！
 
 ## 重寫後的全文，盡力保持原始細節及結構
@@ -412,6 +426,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
     <img src="https://img.youtube.com/vi/usTp6iKa1aE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2025年不可不知的幣圈知識！專家私下都買什麼？啥時賣幣？看完硬實力直接破表！
 
@@ -476,6 +492,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # Michael Saylor比特幣十萬跨年世紀派對！Inside Michael Saylor's BTC 100K New Year's Party
 
 ## 文章内容叙述性整理
@@ -536,6 +554,8 @@ Core 協議是一個基於 Bitcoin 的 L2 解決方案，致力於建立一個�
     <img src="https://img.youtube.com/vi/mNIUbz6TbEY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 史上最極致金融操作！再發百億股！MicroStrategy即將買光所有比特幣？99.99%的人根本沒準備好！
 
@@ -606,6 +626,8 @@ MicroStrategy 申請股票授權上限增加的目的並非立即大量增發，
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 2025年加密貨幣10大預測！5個頂點逃跑訊號！出金時機！
 
 ## 2025年加密貨圈十大預測 (依照原文排序與內容整理)
@@ -666,6 +688,8 @@ MicroStrategy 申請股票授權上限增加的目的並非立即大量增發，
 
 [Transcript](../transcript/AvIBRBSfdKY.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # Magic Eden創辦人：沒有比現在更好的時機！你還來得及致富！
 
 ## Magic Eden 創始人訪談重述 (詳盡版)
@@ -707,6 +731,8 @@ MicroStrategy 申請股票授權上限增加的目的並非立即大量增發，
     <img src="https://img.youtube.com/vi/nQEyvRPlUVI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 重要！比特幣衝破10萬美元！見證歷史！接下來呢？
 
@@ -762,6 +788,8 @@ MicroStrategy 申請股票授權上限增加的目的並非立即大量增發，
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 教父：我以為 BTC $1 已經很高了！極珍貴訪談！Adam Back 與中本聰的交手！
 
 ## 文章內容中文重寫 (詳盡且客觀)
@@ -803,6 +831,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
     <img src="https://img.youtube.com/vi/ZSkQzVwuXz8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 關鍵！比特幣即將進入瘋狂價格區間！5個極重要指標！小心措手不及！
 
@@ -861,6 +891,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
 
 [Transcript](../transcript/2JBNora-Abs.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 99.99%的人根本不知情！國家機構級別！搶比特幣大戰正式開打！博弈論的終點！
 
 ## 基于原文内容的详细重述
@@ -908,6 +940,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
     <img src="https://img.youtube.com/vi/rkh6dWkNDlY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 「幣圈合約」從零開始！全網最完整入門指南！波段交易員公開開單5步驟！
 
@@ -972,6 +1006,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣即將破十萬美金！現在買會太晚嗎？比特幣耶穌的價格預測！你一定要看！MicroStrategy
 
 ## 比特幣長期價值與成長前景分析
@@ -1033,6 +1069,8 @@ Adam Back 同时透露，Blockstream 的團隊分布在世界各地，包括澳�
 
 [Transcript](../transcript/8JDgnCWdAoc.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 傳統金錢思維可能不正確！MicroStrategy 比特幣的世紀操作！Michael Saylor
 
 ## 对MicroStrategy创始人Michael Sayler的采访细节整理
@@ -1081,6 +1119,8 @@ Sayler认为，比特币是一次“奇点”（singularity），因为这是人
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 他找到金融的無限槓桿！我衝進去了！為什麼美股MSTR一路狂衝？老闆Michael Saylor親自揭秘！MicroStrategy
 
 ## 微型策略公司 (MicroStrategy) Bitcoin 战略解析
@@ -1126,6 +1166,8 @@ Sayler认为，比特币是一次“奇点”（singularity），因为这是人
     <img src="https://img.youtube.com/vi/Ij5hrTmfOgs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣耶穌Michael Saylor：這個世代的翻身機會！你只需要這樣做！比特幣最重要的影片！不看真的會後悔！MicroStrategy MSTR
 
@@ -1186,6 +1228,8 @@ Sayler认为，比特币是一次“奇点”（singularity），因为这是人
 </a>
 
 [Transcript](../transcript/0HQ1a9uiB0o.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣歷史新高！4個我還敢買的理由！
 
@@ -1249,6 +1293,8 @@ Sayler认为，比特币是一次“奇点”（singularity），因为这是人
 
 [Transcript](../transcript/c-ACsFp81Bs.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 戲劇化商業鬥爭！OpenSea怎麼輸掉NFT市場？Magic Eden、BLUR商業鬥爭！
 
 ## 機幣市場三強鼎立：Magic Eden崛起與平台轉型
@@ -1304,6 +1350,8 @@ Magic Eden計劃發行ME代币，象徵該平台生態系統內去中心化應�
 
 [Transcript](../transcript/aCsNYqNLtTI.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 冷錢包權威：你的加密資產已經被盯上！趕快做這件事！冷錢包最詳細解答！
 
 ## 對談摘要：加密貨幣投資與未來發展（節目內容重述）
@@ -1353,6 +1401,8 @@ Magic Eden計劃發行ME代币，象徵該平台生態系統內去中心化應�
 </a>
 
 [Transcript](../transcript/22-WjWckVyE.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2025年世界財富報告！台灣人居然名列第一！徹底顛覆認知！
 
@@ -1411,6 +1461,8 @@ Magic Eden計劃發行ME代币，象徵該平台生態系統內去中心化應�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 機構狂買比特幣！注意這些關鍵！可能快沒時間了....
 
 ## 幣圈、政治、經濟現狀與比特幣價值觀探討 (依文章內容整理)
@@ -1456,6 +1508,8 @@ Magic Eden計劃發行ME代币，象徵該平台生態系統內去中心化應�
     <img src="https://img.youtube.com/vi/dSbKFDW58kc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣暴漲！果然！貝萊德真的出手了！
 
@@ -1511,6 +1565,8 @@ BlackRock首席投资官认为，比特币仍存在未实现的定价潜力。�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 嚇人！最新特斯拉發表會！史上最偉大的產品出現了？
 
 ## Tesla 新品發表會綜述：《We Robot》活動內容及產品介紹
@@ -1559,6 +1615,8 @@ Tesla Optimus 人型機器人持續進化，Tesla 提到，過去幾年在機器
 </a>
 
 [Transcript](../transcript/Pr2sB1KMQhY.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 非洲最大交易所：長期比特幣合理價2100萬台幣！
 
@@ -1638,6 +1696,8 @@ Tesla Optimus 人型機器人持續進化，Tesla 提到，過去幾年在機器
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 驚人的重要證據！這種錢你願意賺嗎？
 
 好的，以下依照文章內容撰寫：
@@ -1697,6 +1757,8 @@ Tesla Optimus 人型機器人持續進化，Tesla 提到，過去幾年在機器
     <img src="https://img.youtube.com/vi/CN8jxwscC5Q/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 這可能是牛市的主戰場！加密手機？加密手錶？
 
@@ -1764,6 +1826,8 @@ Showtime手錶的潜力远不止于最初的空投吸引。受訪者指出，該
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 不能不知！比特幣創新高延遲！消息總整理！
 
 ## 文章內容摘要 (按原文順序)
@@ -1816,6 +1880,8 @@ Showtime手錶的潜力远不止于最初的空投吸引。受訪者指出，該
     <img src="https://img.youtube.com/vi/xVfs9Us7Tw0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 怎麼投資加密貨幣？全網最完整の新手「機器人」教戰守則！
 
@@ -1907,6 +1973,8 @@ Showtime手錶的潜力远不止于最初的空投吸引。受訪者指出，該
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 恐怖的真實數字！對不起！大部分的加密貨幣高點已經過了......
 
 這篇文章探討了目前幣圈（加密貨幣市場）的現況，指出現有周期難以獲利，並詳細剖析了近期幣圈出現的代幣發射（meme幣）平台現象。以下為文章詳細内容整理：
@@ -1963,6 +2031,8 @@ Showtime手錶的潜力远不止于最初的空投吸引。受訪者指出，該
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 你會後悔！以太幣可能創不了新高？幣圈大佬吵翻天！
 
 ## 關於以太坊的現況、爭議與未來展望 – 綜述來自近日活動及Vitalik的重要發言
@@ -2012,6 +2082,8 @@ Vitalik Buterin本人親自現身活動，並搭乘捷運，展現了他的親�
     <img src="https://img.youtube.com/vi/jloNRK9-TrA/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 每個年紀應該存多少錢？
 
@@ -2102,6 +2174,8 @@ Vitalik Buterin本人親自現身活動，並搭乘捷運，展現了他的親�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣安怎麼加密貨幣出入金？全網最新、最詳細の新手指南！
 
 以下是根據文章內容改寫的詳細、客觀描述，包含細節，沒有添加個人意見：
@@ -2156,6 +2230,8 @@ Vitalik Buterin本人親自現身活動，並搭乘捷運，展現了他的親�
 </a>
 
 [Transcript](../transcript/BFaPd21ETfA.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈冷錢包是什麼？最暴力的Tangem開箱！
 
@@ -2235,6 +2311,8 @@ Tendium錢包透過備份卡片或戒指，理論上使用者可以將這些備�
 
 [Transcript](../transcript/aw1r4lTg1Ww.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 全球晶片股爆跌！兇手居然是它！反壟斷法是什麼？
 
 ## NVIDIA 反垄断调查深度解析：历史、背景及未来思辨
@@ -2304,6 +2382,8 @@ NVIDIA 近期的财务报告表现突出，引发了对其市场影响力的关�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 注意！你的幣圈投資風險過高！對沖基金的頂級操作！原來幣圈可以這樣！
 
 ## 長篇訪談記錄：加密貨幣投資策略、風險評估及市場分析
@@ -2372,6 +2452,8 @@ NVIDIA 近期的财务报告表现突出，引发了对其市场影响力的关�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 他是誰？Telegram CEO 被捕真相！比你想得更可怕！
 
 ## Telegram創作者Pavlo及其面臨的法律困境 - 詳細事件梳理
@@ -2426,6 +2508,8 @@ Pavlo本人曾公开表示：“为了自由，你应该准备好为了自由承
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 莊家：比特幣3000萬台幣！薩爾瓦多比特幣計畫幕後藏鏡人Samson Mow！聽完徹底嚇瘋！
 
 ## 详细内容回顾：Vitalik Buterin 受访谈话要点
@@ -2473,6 +2557,8 @@ Buterin 解释说，当所有 Bitcoin 被开采完毕后，矿工的收入就将
     <img src="https://img.youtube.com/vi/UU0FDQ2ZCR4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 金融大佬悲觀！巴菲特出場！財報季曝警訊！牛市悄悄結束？經濟衰退一觸即發？
 
@@ -2539,6 +2625,8 @@ Buterin 解释说，当所有 Bitcoin 被开采完毕后，矿工的收入就将
 
 [Transcript](../transcript/0rQhWejVaxE.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 2024年10大改變人類的科技！世界居然已經這麼先進了！幣圈恐破解？減肥藥也上榜！
 
 ## 麻省理工學院 2024十大颠覆人類科學发明综述
@@ -2603,6 +2691,8 @@ AI在短短幾年內迅速崛起，尤其以ChatGPT的大規模使用為標誌�
 </a>
 
 [Transcript](../transcript/3PhvbFIzqiQ.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈匿名借錢？不用擔心被歧視？加密貨幣借貸原來是這樣！
 
@@ -2672,6 +2762,8 @@ AI在短短幾年內迅速崛起，尤其以ChatGPT的大規模使用為標誌�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 金融危機來臨？全球市場暴跌真實原因！該逃嗎？
 
 ## 對近期股市與幣圈跌幅的事件解析：聯準會與日本政策的影響
@@ -2726,6 +2818,8 @@ Tesla區塊鏈共同創辦人觀察到目前市場情緒與初期新冠疫情時
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 史上最慘的一天！全球股市血洗！幣圈大暴跌！為什麼？
 
 ## 經濟、加密貨幣與政策動態分析（依文章整理）
@@ -2768,6 +2862,8 @@ Tesla區塊鏈共同創辦人觀察到目前市場情緒與初期新冠疫情時
 </a>
 
 [Transcript](../transcript/ABPe_MZwxq4.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 玩遊戲賺錢？鏈遊最底層的邏輯！MATR1X創辦人來了！
 
@@ -2825,6 +2921,8 @@ Matrix 致力于构建一个以 Max 代币为核心的开放、透明、共治�
     <img src="https://img.youtube.com/vi/FfMzII0ojmw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # DePIN幣圈爆發！AI算力大戰早在幣圈打起來！最完整的說明書！
 
@@ -2890,6 +2988,8 @@ Jayden 强调，Deep End 领域的繁荣，需要生态系统 (ecosystem) 的发
     <img src="https://img.youtube.com/vi/x083LIlgjCI/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 全網最完整！CRYPTO.COM 交易所指南！
 
