@@ -8,6 +8,8 @@
 
 [Transcript](../transcript/9FoK12zt2lQ.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 哪一種穩定幣好？大戰開打！ USDT | USDC | BUSD | DAI
 
 ## 穩定幣全面分析：USDT、USDC、DAI、BUS D詳解
@@ -66,6 +68,8 @@ DAI 是一种去中心化的加密貨幣穩定幣，由 MakerDAO 操控。DAI �
     <img src="https://img.youtube.com/vi/hB3FcCIe4pk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 先不要投資加密貨幣！先看懂大趨勢！2022 第三季報告來啦！
 
@@ -131,6 +135,8 @@ Layer 2 區塊鏈構建於 Layer 1 網絡之上，旨在解決擴展性問題（
     <img src="https://img.youtube.com/vi/PYudNx839r0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 我投資的錢哪來的？幣圈長期抗戰策略！實用抄底工具分享！
 
@@ -204,6 +210,8 @@ Layer 2 區塊鏈構建於 Layer 1 網絡之上，旨在解決擴展性問題（
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 全球能源危機！財富洗牌！世界霸權的轉移！中東崛起！
 
 ## OPEC+ 減產石油事件的來龍去脉及潜在影响
@@ -266,6 +274,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
 
 [Transcript](../transcript/bdWwU9RnEyg.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 不要再投資了？看完這支影片！終極指標！銀行系統的崩壞！最慘的要來了？
 
 ## 瑞士信貸及德意志銀行岌危：現況、風險與歷史類比整理
@@ -318,6 +328,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
 
 [Transcript](../transcript/_hLtnThWa6o.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 貨幣崩盤！英國犯低級錯誤？美金碾爛其他貨幣！
 
 好的，以下為根據您提供的文本整理的重要內容，以客觀、細緻的中文呈現：
@@ -366,6 +378,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
 </a>
 
 [Transcript](../transcript/2zrLPInave8.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 怕爆！鈔票為什麼可以一直印？瘋狂印錢！居然比史上最貴的13次戰爭還多！
 
@@ -426,6 +440,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
 </a>
 
 [Transcript](../transcript/4M1PJB3yBXA.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 最慘的還沒來！史詩級泡泡！倒數引爆！本世紀大蕭條即將來臨？
 
@@ -495,6 +511,8 @@ OPEC+ 减产石油的事件錯綜複雜，涉及到商业、政治、地缘战�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈富豪：以太幣短期會跌！反身性理論！為什麼市場看空以太幣？
 
 以下為針對上述文章內容的詳細客觀整理，並盡可能保留細節：
@@ -548,6 +566,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
     <img src="https://img.youtube.com/vi/IwWieGTjrI8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 這支影片可能讓你賺錢！以太合併佈局！
 
@@ -610,6 +630,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
     <img src="https://img.youtube.com/vi/qE4-Z-jERCc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 斷人財路！以太分叉！內戰開打！各自為王？散戶陷阱？
 
@@ -687,6 +709,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 以太坊合併懶人包！你必須知道的事！
 
 ## 以太坊合併事件資訊概述
@@ -743,6 +767,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
 
 [Transcript](../transcript/9Vkt9Q6PlVk.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 關於V神你可能不知道的事！幣圈年紀最小億萬富豪！不斷有人送錢進貢！燒掉66億美金！玩電玩鬧脾氣！省錢省出病！
 
 ## 以太坊創始人維塔利克．布特林的生平和經歷（基於文章整理）
@@ -782,6 +808,8 @@ Arthur Hayes在文章中探討了以太坊的通縮機制，並以此為基礎�
 </a>
 
 [Transcript](../transcript/aHRz1io7rJE.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # DO KWON訪談懶人包！TERRA崩壞！詐騙？內賊？雙面人？
 
@@ -840,6 +868,8 @@ Teraform Labs 創辦人兜寬接受訪問，闡述了Tera生態系崩潰的經�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # SBF豪擲千億！FTX收購懶人包！
 
 ## SBF 與 FTX 的急速擴張：幣圈收購潮分析
@@ -892,6 +922,8 @@ SBF 傾向於精簡團隊，認為人手越多不一定是好事。他的作風�
     <img src="https://img.youtube.com/vi/IKNdxTWCZcY/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 1個男人！2隻機器狗！遺失的8千顆比特幣！上百億的任務！
 
@@ -950,6 +982,8 @@ Hardwellson 計畫中的機器狗單價約 7.5 萬美元，相當於 225 萬台�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 世界首富操作幣圈！總整理！龐大金錢帝國的陰謀？一則貼文撼動千億！
 
 ## 伊隆·穆斯克與加密貨幣的影響： 文獻整理
@@ -991,6 +1025,8 @@ Hardwellson 計畫中的機器狗單價約 7.5 萬美元，相當於 225 萬台�
     <img src="https://img.youtube.com/vi/SL-aXC5YTjo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 世界首富！耍了整個幣圈？1億粉絲的力量！你還相信Elon Musk嗎？
 
@@ -1040,6 +1076,8 @@ Hardwellson 計畫中的機器狗單價約 7.5 萬美元，相當於 225 萬台�
     <img src="https://img.youtube.com/vi/P7atsb_aQ5k/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # Mt.Gox 事件始末！8月災難將至？還會更慘嗎？
 
@@ -1093,6 +1131,8 @@ Mt.Gox償付計畫的推進，為比特幣市場帶來了潛在的風險與不�
     <img src="https://img.youtube.com/vi/p4p_qzC4M7Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 安倍晉三槍擊事件始末！兇手殺錯人？邪教？
 
@@ -1150,6 +1190,8 @@ Mt.Gox償付計畫的推進，為比特幣市場帶來了潛在的風險與不�
     <img src="https://img.youtube.com/vi/SIz1jT5Kjgw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 三箭資本倒閉！創辦人失聯！變賣資產！15億遊艇！10億豪宅！人神共憤！
 
@@ -1212,6 +1254,8 @@ Terra/Luna 生態系統崩潰後，UST 脫錨，導致三建資本大量資金�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # USDT危機懶人包！資本圍捕！大舉做空！機構猛力散播恐懼中！
 
 ## USDT風暴解析：Tetether所面臨的挑戰，回應與應對
@@ -1263,6 +1307,8 @@ USDT作為加密貨幣市場主要的穩定幣，近期面臨諸多負面訊息�
     <img src="https://img.youtube.com/vi/os_19wMKSI0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣低點指標？重複歷史？BITI的出現！
 
@@ -1317,6 +1363,8 @@ USDT作為加密貨幣市場主要的穩定幣，近期面臨諸多負面訊息�
 
 [Transcript](../transcript/8b5kFyBWQJU.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 密切關注！近期可能發生的大規模清算！
 
 ## 加密貨幣市場危機盤點：清算潮、信任崩塌及潜在風險
@@ -1363,6 +1411,8 @@ USDT作為加密貨幣市場主要的穩定幣，近期面臨諸多負面訊息�
 </a>
 
 [Transcript](../transcript/7qLzW2e7eVA.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2022幣圈股市最重要的一天！請準備好！
 
@@ -1416,6 +1466,8 @@ GDP 代表一个国家在特定时期生产的劳务与商品的总价值。 美
     <img src="https://img.youtube.com/vi/YAdgTXPhlCU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 絲路暗網！惡魔版網購平台！
 
@@ -1474,6 +1526,8 @@ FBI調查發現，在思路平台上的交易量極為龐大。在調查過程�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # Celsius危機始末！以太幣還能買嗎？｛我確診了！｝
 
 ## Celcius 破產風波與以太坊升級：事件梳理與背景解析
@@ -1523,6 +1577,8 @@ FBI調查發現，在思路平台上的交易量極為龐大。在調查過程�
 
 [Transcript](../transcript/b41ju0Bq_1c.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣價格預測！市場觸底倒數？5個原因！
 
 ## Arthur Hayes 論幣市已近/觸底 分析摘要
@@ -1567,6 +1623,8 @@ Hayes 認為，市場可能會快速從這些投資者手中釋放資金，導�
 </a>
 
 [Transcript](../transcript/6VIvR2Ygti0.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # BNB閃跌！幣安Binance腥風血雨！被控成為毒販駭客洗錢聖地！
 
@@ -1615,6 +1673,8 @@ Hayes 認為，市場可能會快速從這些投資者手中釋放資金，導�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 全球搶糧！你的錢也蒸發？糧食短缺怎麼影響幣圈？股市？
 
 ## 文章整理：全球糧食短缺影響經濟市場
@@ -1659,6 +1719,8 @@ Hayes 認為，市場可能會快速從這些投資者手中釋放資金，導�
     <img src="https://img.youtube.com/vi/tbWJGd1gixw/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 美聯儲強勢！市場還沒觸底？為什麼市場不堪一擊？
 
@@ -1720,6 +1782,8 @@ Hayes 認為，市場可能會快速從這些投資者手中釋放資金，導�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 新LUNA2.0 暴漲又暴跌！還沒拿到全部？看怎麼分階段空投！
 
 ## TERRA 生態系統修正計畫及新 LUNA 開放交易後的狀況整理 (摘要)
@@ -1777,6 +1841,8 @@ TERRA 目前最重視的并非幣價，而是如何稳定生態系统，以及�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # Tether 財報只有2個圓餅圖！穩定幣USDT有美金支撐嗎？
 
 以下基於原文內容編寫，呈現詳細且客觀的解說，不添加個人意見：
@@ -1824,6 +1890,8 @@ Tether公司的CEO是JL，一位居住在香港的荷兰人。 CFO为Giancarlo�
 </a>
 
 [Transcript](../transcript/-SVO3JwXWcQ.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 關鍵7天搶救LUNA UST！終極之戰！TERRA投票已啟動！你投了嗎？
 
@@ -1887,6 +1955,8 @@ CZ認為，僅僅是分叉並不能為新的鏈帶來任何實際價值。
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 算法穩定幣的末日！收益59.83％！陰謀論主角的USDD是不是下一個毀滅的穩定幣？
 
 ## Justin Sun 及 Tron 項目梳理 ( 基於文獻內容 )
@@ -1936,6 +2006,8 @@ USDD後續的儲備金組成主要由USDT及USDC構成，两者均是與美元�
 </a>
 
 [Transcript](../transcript/3N83Z035G-s.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 誰攻擊LUNA？Do Kwon心懷不軌？孫宇晨保自己的USDD？美國政府的陰謀？龐氏騙局？LUNA UST陰謀論！
 
@@ -1988,6 +2060,8 @@ Lunac 和 UST 崩盤事件的真相撲朔迷離，涉及了複雜的金融科技
     <img src="https://img.youtube.com/vi/O7QrHN0JWoE/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 我2天賠掉幾百萬！已經有人為此輕生了！怪Do Kwon太狂妄？LFG太輕率？LUNA & UST狙殺全記錄 ！
 
@@ -2045,6 +2119,8 @@ TERA團隊開始聯繫金融機構，尋求10億美元的融資，企圖撐住US
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 血流成河！LUNA＆UST撐不住了！DEPEG脫鉤！要逃嗎？
 
 ## LUNA/UST 事件紀錄整理
@@ -2094,6 +2170,8 @@ UST 是一種與美元挂钩的稳定幣，其設計目標為維持1美元的价
 
 [Transcript](../transcript/AYLlUiWCntE.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 震撼NFT界的Moonbirds月鳥！
 
 ## MoonBirds 項目解讀：團隊、機制與潛力
@@ -2139,6 +2217,8 @@ Moonbirds 有以下幾個主要的價值點：
     <img src="https://img.youtube.com/vi/kMKRimtA7Qs/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 戰爭時局最前線「逃難資產」解密世界上第一次加密戰爭
 
@@ -2189,6 +2269,8 @@ Coinbase 和 Binance 皆明確表示，在沒有法律要求的情況下，他�
     <img src="https://img.youtube.com/vi/v_1pXz0CK24/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # NFT怎麼買賣？OpenSea 完整操作教學！
 
@@ -2243,6 +2325,8 @@ OpenSea 是一個 NFT 交易平台。使用者透過連接數位錢包（如Meta
 </a>
 
 [Transcript](../transcript/1rvfpfeK-hw.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 炒幣如何看K線？怎麼看走勢圖？
 
@@ -2315,6 +2399,8 @@ K線圖，能較為直觀地呈現市場力量的較量，以及市場參與者�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈農夫？收益耕種是什麼意思？
 
 ## 幣圈種田指南：Yield Farming（收益耕作）機制詳解
@@ -2371,6 +2457,8 @@ TVL指的是鎖定在特定協議中的總價值。通常被視為一個安全�
     <img src="https://img.youtube.com/vi/LQ6f-c65xEc/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 加密貨幣共識機制懶人包！比特幣挖礦是什麼？
 
@@ -2446,6 +2534,8 @@ DPOS是POS的進一步改良，旨在提高驗證效率。
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈行話，你懂幾個？英文好居然還不夠！？
 
 ## 虛擬貨幣及幣圈相關術語整理
@@ -2509,6 +2599,8 @@ DPOS是POS的進一步改良，旨在提高驗證效率。
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 獨家「區塊鏈架構系列#2」幣圈專家筆記整理：產業與行業
 
 ## 區塊鏈應用架構分析：五層次的解析
@@ -2565,6 +2657,8 @@ DPOS是POS的進一步改良，旨在提高驗證效率。
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 獨家「區塊鏈架構系列#1」6.23分鐘聽完這個神奇世界的根基：鏈 Chain
 
 ## 區塊鏈、公有/私有/聯盟鏈、DeFi、GameFi概述
@@ -2609,6 +2703,8 @@ DPOS是POS的進一步改良，旨在提高驗證效率。
     <img src="https://img.youtube.com/vi/d2C0L4g7qwQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2022年2種NFT賺錢的方法（交易員／創作者）實際操作
 
@@ -2678,6 +2774,8 @@ NFT 是一種新興的數位資產，涉及風險。 投資前請務必充分了
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NFT憑什麼動不動就上億？這世界瘋了嗎？看完再說你懂NFT
 
 ## NFT 熱潮與應用詳解
@@ -2720,6 +2818,8 @@ NFT的創作可以追溯到創作者本人，藉由區塊鏈技術記錄，即�
     <img src="https://img.youtube.com/vi/ctN8KUmbKcU/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2022區塊鏈入門大全（660秒白話文版）
 

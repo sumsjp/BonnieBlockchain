@@ -6,6 +6,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣牛市一再重演！抓緊這些信號！谷底翻身！
 
 ## 比特币现货ETF对下一次牛市的影响预测
@@ -56,6 +58,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣暴漲別太樂觀？小心過度貪婪！專訪幣圈行銷專家！
 
 ## 深入解析加密貨幣市場趨勢：一份訪談紀錄
@@ -103,6 +107,8 @@
 </a>
 
 [Transcript](../transcript/1G56gJd_J3c.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 哪個幣能買？超硬核檢驗心法！最詳細加密貨幣研究攻略！經驗濃縮！
 
@@ -182,6 +188,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 本世紀最強投資人斯思維！改變巴菲特的軍師！
 
 ## 查理·芒格逝世前的访谈纪要：关于价值投資、人生哲学与衰老的洞见
@@ -252,6 +260,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣安CZ辭職事件總整理！內幕！完全不同的看法！
 
 ## 币安創辦人CZ辭任執行長，與美國司法部達成和解：事件全貌詳解
@@ -314,6 +324,8 @@
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 全明星幣圈紅藍大對抗！超高壓賽制逼出爆發力！想要活下去只能拼盡全力！
 
 ## 幣圈爭霸戰 賽後完整記錄與摘要
@@ -366,6 +378,8 @@
 </a>
 
 [Transcript](../transcript/6T9-JCAtlFU.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # Sam Altman執行長被炒！OpenAI 開發者大會到底發生了什麼？
 
@@ -430,6 +444,8 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
 </a>
 
 [Transcript](../transcript/28H_4USULrc.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 2024年世界財富報告！台灣人會不會太有錢了！認知徹底爆炸！
 
@@ -496,6 +512,8 @@ OpenAI认为未来，重复性的工作将被智能AI取代，这将极大地提
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 完美落入檢察官設下的天羅地網？FTX 天才加密金童的殞落！
 
 ## FTX崩潰事件審判及SBF最終判罪事件詳細整理
@@ -551,6 +569,8 @@ Caroline Ellison 證詞，她解釋了 SBF 如何指示 Alameda 使用 FTX 客�
 </a>
 
 [Transcript](../transcript/6gfY7YkP5YI.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 比特幣還有牛市嗎？大機構居然這樣說......
 
@@ -608,6 +628,8 @@ Caroline Ellison 證詞，她解釋了 SBF 如何指示 Alameda 使用 FTX 客�
 
 [Transcript](../transcript/BTVSC0fk2JQ.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣專家預期翻倍！幣圈發生什麼事？
 
 ## 比特幣現貨ETF申請進展及輝度信託的轉型之路：詳細分析
@@ -661,6 +683,8 @@ GBTC與現貨ETF的不同之處在於，它屬於信託形式，投資者購買�
     <img src="https://img.youtube.com/vi/WpZMRDxvVbk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣安停止＄美元提領！幣圈假新聞的恐怖！
 
@@ -726,6 +750,8 @@ CZ相信，未來6年內去中心化金融（DeFi）的市場規模將超過中�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 賄賂官員1億5千萬！SBF前女友為自保大爆料！自傳作者過於迷戀角色？
 
 ## FTX崩盤事件法庭證詞詳述 - Caroline Ellison 供詞整理
@@ -773,6 +799,8 @@ Ellison 的證詞揭露了 Alameda Research 的高風險投資策略、對 FTX �
     <img src="https://img.youtube.com/vi/dqeAIun9rVo/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # │ 幣圈網紅決勝負！實力運氣缺一不可！
 
@@ -864,6 +892,8 @@ Ellison 的證詞揭露了 Alameda Research 的高風險投資策略、對 FTX �
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 臉書最新產品發表會！不敢相信未來居然長這樣！超想要！
 
 ## Meta Connect 發佈總結：虛擬實境、混合實境、與 Meta AI 發展
@@ -915,6 +945,8 @@ Meta Connect活動標誌著Meta在虛擬現實、混合實境和AI領域的持�
     <img src="https://img.youtube.com/vi/xOD-miNma7M/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 史上最大的金融犯罪！馬拉松開庭Day1！
 
@@ -971,6 +1003,8 @@ FTX 及其相關公司 Elemida Research 創始人 Sam Bankman-Fried (SBF) 因金
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # │全明星網紅博主駕到！誰能奪下加密貨幣首場戰役？
 
 ## 幣圈爭霸戰 - 詳細實況紀錄
@@ -1021,6 +1055,8 @@ Wade為 Bill 頒發比特幣金項鍊，Bill發表得獎感言，感謝大眾的
     <img src="https://img.youtube.com/vi/i1hMtlsH__U/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 中國 VS 韓國！頂尖加密貨幣交易員的秘密！
 
@@ -1074,6 +1110,8 @@ Wade為 Bill 頒發比特幣金項鍊，Bill發表得獎感言，感謝大眾的
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈血崩倒數？FTX馬上巨額清倉真相！他們都騙你！
 
 ## FTX 破产清算及重组进展详细梳理
@@ -1124,6 +1162,8 @@ FTX的核心成员包括創辦人SBF、前工程总监Nisha、技术长Gary Wang
     <img src="https://img.youtube.com/vi/nYHB5yhQTvQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 巴菲特清倉股票！股市大佬押注市場崩盤？新版大賣空？到底發生什麼事？
 
@@ -1194,6 +1234,8 @@ Burry 再次看空股市，認為可能出現下跌。原文並未明確 Burry �
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # Bybit 交易所 Ben Zhou 來了！這是免費能看的嗎？
 
 ## 本次访谈内容重写：区块链、Layer 2、行业展望及投资者心态
@@ -1244,6 +1286,8 @@ Ben 强调投资者在进入区块链行业时应该问自己“为什么选择�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 灰度事件懶人包！到底發生什麼事？
 
 ## 比特幣現貨ETF的申請風雲：輝度與SEC的上訪之路
@@ -1287,6 +1331,8 @@ Grayscale Investments的比特币信託基金（GBTC）一直存在折價現象�
 </a>
 
 [Transcript](../transcript/6XI9KBxJzgE.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 恆大地產總整理！月入14元變成首富！看完我認為許家印絕不是凡人！
 
@@ -1339,6 +1385,8 @@ Grayscale Investments的比特币信託基金（GBTC）一直存在折價現象�
     <img src="https://img.youtube.com/vi/FUS5Dyvj5oQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 以太坊帳戶抽象！不會不算幣圈人！#OKX
 
@@ -1406,6 +1454,8 @@ OKX 推出的AA智能合约钱包是区块链技术发展的一个重要趋势�
 
 [Transcript](../transcript/A4RE9uBVmb4.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 中國房地產危機懶人包！關鍵48小時到底發生什麼事？
 
 ## 中國房地產危機與金融影響：事件梳記與分析
@@ -1456,6 +1506,8 @@ OKX 推出的AA智能合约钱包是区块链技术发展的一个重要趋势�
     <img src="https://img.youtube.com/vi/PpRxcOpM5T8/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 頂尖對沖基金的幣圈佈局！能不能翻身就看這次了！報告詳細總整理！
 
@@ -1519,6 +1571,8 @@ OKX 推出的AA智能合约钱包是区块链技术发展的一个重要趋势�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈 no.1 最高榮譽！幣圈爭霸戰節目錄影！等你當邦主！
 
 以下是對文章內容的整理：
@@ -1565,6 +1619,8 @@ OKX 推出的AA智能合约钱包是区块链技术发展的一个重要趋势�
 </a>
 
 [Transcript](../transcript/bjxw6djppYM.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 你的眼球值多少錢？邊看邊背脊發涼！
 
@@ -1618,6 +1674,8 @@ Worldcoin 在 A16Z 等投資公司的 A 輪募資中估計已經達到 30 億美
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 他當美國總統！比特幣就會暴漲！
 
 ## 2024美國總統大選候選人對加密貨幣的立場：詳細解讀
@@ -1668,6 +1726,8 @@ Kennedy Jr. 倡導用黃金、白银和比特幣等保值資産支撐美元，�
     <img src="https://img.youtube.com/vi/OLSjwla53Mk/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # XRP 讓幣圈暴漲？小心陷阱！瑞波事件懶人包！看完再下結論！
 
@@ -1742,6 +1802,8 @@ Ripple Labs 致力于利用區塊鏈技術和XRP代幣，提升跨境支付的�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # FTX 交易所居然這樣還錢？超詳細總整理！
 
 ## FTX事件深度解析：從崩盤、索賠、重組到未來展望
@@ -1815,6 +1877,8 @@ FTX的資產重組進展迅速。目前，多家机构对FTX表现出興趣，�
 
 [Transcript](../transcript/5I4pRkf-7-E.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 掌控全世界！這「人」比世上 99.87 % 的「國家」更有錢！
 
 ## 黑岩集团(BlackRock)崛起的故事
@@ -1887,6 +1951,8 @@ ETF市场主要由黑岩（35%） Vanguard 和 State Street (15-20%) 三家公�
 
 [Transcript](../transcript/b6j8qZ3Wt8k.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 傳統金融帶大錢進幣圈......？
 
 以下是根據原文內容，詳細且客觀地重寫的文章，包含所有細節，力求不帶入任何個人意見：
@@ -1944,6 +2010,8 @@ BlackRock 的申請文件據稱準備完整，滿足了 SEC 的審核要求。 �
 
 [Transcript](../transcript/94cleKtc-Aw.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 為什麼單挑？馬斯克與祖克伯！新仇舊恨總整理！
 
 以下是根據文章內容撰寫的詳細客觀紀錄，力求完整呈現原文資訊，且不添加任何個人意見：
@@ -2000,6 +2068,8 @@ Elon Musk的母親宣稱已經單方面取消該場格鬥賽。目前此項賽�
 
 [Transcript](../transcript/38596V7AwQ8.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # USDT 泰達幣危機倒數？機密文件洩露！
 
 ## USDT穩定幣事件及幣圈相關新聞整理（依文章內容）
@@ -2047,6 +2117,8 @@ Elon Musk的母親宣稱已經單方面取消該場格鬥賽。目前此項賽�
     <img src="https://img.youtube.com/vi/D6KTRjbrnKg/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 告死你！美國為什麼撲殺加密貨幣？到底怎麼辦？
 
@@ -2108,6 +2180,8 @@ SEC 在這場訴訟中採取強硬態度，似乎意味著其希望通過訴訟�
 </a>
 
 [Transcript](../transcript/4VYmLHQRowA.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈暴跌真實原因！這24小時發生什麼事？
 
@@ -2171,6 +2245,8 @@ SEC 對加密貨圈的監管力度日益加強，背後的動機複雜，涉及�
 
 [Transcript](../transcript/-6TJJfk1Abo.md)
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 蘋果眼鏡 Apple Vision Pro 一台居然要 3500 美金！值得嗎？
 
 ## Apple Vision Pro 全面細節解析
@@ -2224,6 +2300,8 @@ Apple Vision Pro 是一款具有創新性的空間運算裝置，其核心功能
 </a>
 
 [Transcript](../transcript/aY1R0lH38bY.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 美國告幣安！全網最詳細總整理！136頁起訴書！一次看懂！
 
@@ -2301,6 +2379,8 @@ SEC和币安的法律纠纷仍在进行中，最终結果难以预测。此事�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 全人類財富分配實驗！不要問我為什麼害怕！你也在其中......
 
 ## Worldcoin 項目詳解：從願景、代幣模型到潛在爭議
@@ -2352,6 +2432,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
     <img src="https://img.youtube.com/vi/GBi8r-bsY4Y/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 幣圈交易所怎麼上幣？哪些幣會被上架？原來百倍幣是這樣來的！
 
@@ -2423,6 +2505,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # NVIDIA 輝達大漲懶人包！AI 晶片股價百天翻倍！搶佔全美前五大公司！
 
 ## 輝達與AI晶片：市值突破兆元背後的故事與財報解析
@@ -2466,6 +2550,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
 </a>
 
 [Transcript](../transcript/-xXbdQlgd3A.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 美債危機超詳細總整理！你有 2 週能阻止經濟大蕭條......
 
@@ -2526,6 +2612,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 90 億的披薩長什麼樣子？比特幣 Pizza 節的真相！
 
 以下依據文章內容整理，提供詳細客觀的說明：
@@ -2565,6 +2653,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
     <img src="https://img.youtube.com/vi/ogPQHZbHbRQ/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # AI 怎麼衝擊影片製作？快速生成特效！居然可以這樣剪輯！
 
@@ -2642,6 +2732,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 幣圈鬼故事！頂流網紅搞詐騙？秒吸上億資金！操作居然是這樣！
 
 以下為對文章內容的整理，力求詳細、客觀、且不包含個人意見：
@@ -2690,6 +2782,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
         alt="[Youtube]" width="200">
 </a>
 
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
 # 比特幣大跌！真實原因其實是......
 
 ## 加密貨幣市場分析長篇報告
@@ -2737,6 +2831,8 @@ Worldcoin 是一項具有創新性的嘗試，旨在解決全球身份驗證和�
     <img src="https://img.youtube.com/vi/NuNKlHt2jU4/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 驚人！比特幣到底發生什麼事？銘文！BRC-20！
 
@@ -2793,6 +2889,8 @@ BRC-20是由開發者domislove於2023年3月初提出的實驗性代幣標準。
     <img src="https://img.youtube.com/vi/oR1lVBlDcr0/maxresdefault.jpg" 
         alt="[Youtube]" width="200">
 </a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 蘋果居然是世界上最大的銀行！驚人的秘密金融操作！
 
@@ -2851,6 +2949,8 @@ BRC-20是由開發者domislove於2023年3月初提出的實驗性代幣標準。
 </a>
 
 [Transcript](../transcript/0M_xdyW9NGU.md)
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
 
 # 1 週造就上億富豪！$ PEPE 迷因幣總整理！你只需要看這一支！
 
