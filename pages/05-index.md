@@ -1,4 +1,61 @@
 <details>
+<summary>280. [2025-05-20] NVIDIA黃仁勳：個人超級電腦、巨型晶片、機器人、AI、台灣總部</summary><br>
+
+<a href="https://www.youtube.com/watch?v=zc8HN_VvWfo" target="_blank">
+    <img src="https://img.youtube.com/vi/zc8HN_VvWfo/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# NVIDIA黃仁勳：個人超級電腦、巨型晶片、機器人、AI、台灣總部
+
+好的，我將文稿整理如下，重點摘錄並歸納，力求簡潔易懂：
+
+**主題：NVIDIA的AI願景與發展策略**
+
+*   **世界已發生根本性變化：** AI 正迅速融入各行各業，未來十年將無所不在。
+*   **數據中心轉型：** 現代電腦即為整個數據中心，數據中心是運算的基本單位。NVIDIA不再只專注於PC或伺服器，而是將整個數據中心視為一個整體來進行運算。
+*   **AI基礎設施：**
+    *   NVIDIA 認為自己不再只是一家科技公司，而是一家重要的基礎設施公司，為 AI 發展提供必要支撐。
+    *   AI 基礎設施將像電力和網路一樣，成為社會的基礎設施。
+    *   需要建立 AI 工廠，將能源轉化為有價值的“tokens”（代幣），如同傳統工廠生產產品。
+*   **台灣的角色：**
+    *   NVIDIA 將在台灣建立首座大型 AI 超級電腦，支持台灣的 AI 基礎設施和生態系統。
+    *   NVIDIA Constellation 新辦公室將設立在北投士林。
+*   **AI 的未來：**
+    *   AI 工廠會生成 “tokens”。
+    *   Agentic AI（代理式AI）：可理解、思考、行動，類似數位機器人，將在企業中扮演重要角色，解決勞動力短缺問題。
+    *   實體 AI（Physical AI）：能夠理解物理世界，是 AI 的下一個重要方向。
+*   **產品與技術：**
+    *   CUDA： NVIDIA 的核心技術，通過不斷提升 CUDA 的性能和普及度，構建龐大的生態系統。
+    *   Grace Blackwell (GB200, GB300)：NVIDIA 新一代系統，提升運算性能和記憶體容量，用於訓練 AI 模型。
+    *   NVLink Fusion：開放、靈活，可整合 NVIDIA 和其他廠商的技術，構建 AI 基礎設施。
+    *   DGX Spark： 個人 AI 雲，隨時待命。
+    *   DGX Station：個人超級電腦，性能強大。
+    *   RTX Pro Enterprise 和 Omniverse 伺服器：專為企業 AI 代理設計的電腦。
+    *   Isaac Groot N1.5： 開源的機器人技術平台。
+*   **機器人產業：**
+    *   NVIDIA 正在開發自主系統，將 AI 模型應用於自動駕駛汽車，並與梅賽德斯合作部署。
+    *   “所有移動的物體都將是機器人”，包括工廠內的機器人。
+*   **產業趨勢：**
+    *   AI將創造數百萬個工作崗位。
+    *   計算和數據中心的需求將會擴大。
+    *   超級計算機將配備量子加速器（QPUs）和GPUs。
+*   **總結:** NVIDIA正積極推動AI技術的發展，致力於構建一個全新的AI生態系統。台灣是NVIDIA重要的合作夥伴，將在AI的發展中扮演關鍵角色。NVIDIA未來將投資於數據中心，建設AI工廠，為客戶提供更強大、更高效的AI解決方案。
+
+**關鍵詞:** NVIDIA, AI, 人工智慧, 數據中心, 基礎設施, 台灣, 超級電腦, CUDA, Agentic AI, 機器人, DGX, NVLink, 產業趨勢.
+
+希望這個整理對您有所幫助！
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>279. [2025-05-19] 千萬別無腦握幣！平均成本法DCA真的好嗎？呢喃貓曝：幣圈入門超重要觀念！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=TiZMo9ckv5I" target="_blank">
