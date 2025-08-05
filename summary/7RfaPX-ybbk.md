@@ -1,15 +1,3 @@
-<details>
-<summary>301. [2025-08-05] 比特幣價掌控在他們手裡？世上最大比特幣礦工 MARA CEO Fred Thiel</summary><br>
-
-<a href="https://www.youtube.com/watch?v=7RfaPX-ybbk" target="_blank">
-    <img src="https://img.youtube.com/vi/7RfaPX-ybbk/maxresdefault.jpg" 
-        alt="[Youtube]" width="200">
-</a>
-
-[all docs](https://github.com/sumsjp/BonnieBlockchain)
-
-# 比特幣價掌控在他們手裡？世上最大比特幣礦工 MARA CEO Fred Thiel
-
 好的，我將這篇文稿整理如下，主要著重於提升可讀性、結構性和重點摘要，並儘量保留原文的語氣和細節：
 
 **標題：Marathon Digital Holdings CEO Fred Thiel 暢談比特幣前景：挖礦、儲備、AI 及市場動態**
@@ -91,9 +79,3 @@ Fred Thiel 闡述了他對比特幣市場的樂觀看法，並分享了 Marathon
 希望這個整理對您有所幫助！如果您還有其他要求，請隨時提出。
 
 [model=gemini-2.0-flash,0]
-
-
----
-
-</details>
-
