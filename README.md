@@ -1,8 +1,8 @@
-# Bonnie Blockchain (2025-09-05)
+# Bonnie Blockchain (2025-09-06)
 
 ---
 
-- [0301~0306](pages/06-index.md)
+- [0301~0307](pages/06-index.md)
 - [0251~0300](pages/05-index.md)
 - [0201~0250](pages/04-index.md)
 - [0151~0200](pages/03-index.md)
