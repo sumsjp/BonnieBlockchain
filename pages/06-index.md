@@ -1,5 +1,5 @@
 <details>
-<summary>313. 山寨季根本還沒來！五年週期？本輪最後一波上漲即將出現？</summary><br>
+<summary>313. [2025-10-01] 山寨季根本還沒來！五年週期？本輪最後一波上漲即將出現？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=_ADn68EJOLI" target="_blank">
     <img src="https://img.youtube.com/vi/_ADn68EJOLI/maxresdefault.jpg" 
