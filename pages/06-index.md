@@ -1,4 +1,266 @@
 <details>
+<summary>326. [2025-11-13] Ben Cowen On The Death Cross And BTC ETH SOL ADA | Ben Cowen |  Bonnie Blockchain</summary><br>
+
+<a href="https://www.youtube.com/watch?v=x91OswNYSSY" target="_blank">
+    <img src="https://img.youtube.com/vi/x91OswNYSSY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# Ben Cowen On The Death Cross And BTC ETH SOL ADA | Ben Cowen |  Bonnie Blockchain
+
+好的，我將文稿整理如下，主要分為幾個部分，並提取重點，方便閱讀和理解：
+
+**I. 核心觀點總結**
+
+*   **加密貨幣熊市：** 目前可能處於熊市，類似於過去週期中的情況。
+*   **Altcoins（山寨幣）風險：** Altcoins 不適合長期投資，其對比特幣表現不佳。
+*   **比特幣走勢：** 比特幣的表現與量化寬鬆 (QE) 和量化緊縮 (QT) 政策密切相關。
+*   **市場情緒：** 目前市場缺乏狂熱情緒，類似於 2019 年的情況。
+*   **50 週移動平均線：** 比特幣若跌破 50 週移動平均線，可能意味著熊市確認。
+*   **死亡交叉：** 關注 50 日移動平均線與 200 日移動平均線的死亡交叉，可能預示著反彈機會。
+*   **量化寬鬆結束：** 量化寬鬆的結束可能導致比特幣主導地位達到頂峰。
+*   **聯準會政策：** 聯準會 (Fed) 的政策對市場有重要影響，但直接從新聞標題獲利並不容易。
+*   **動態 DCA 策略：** 建議採用動態 DCA（平均成本法）策略，在風險較低時增加投資，風險較高時減少投資。
+*   **AI 影響：** 人工智慧 (AI) 既能提高效率，也可能帶來潛在的泡沫風險和就業問題。
+*   **政府停擺：** 政府停擺會影響流動性，並可能對市場產生負面影響。
+*   **敘事追隨價格：** 敘事往往追隨價格走勢，而非相反。
+*   **零售投資者：** 建議長期持有比特幣，並避免將 Altcoins 作為長期投資。
+*  **未來週期：** 比特幣的四年週期依然有效。
+
+**II. 詳細內容整理**
+
+**A. 市場分析與預測**
+
+1.  **宏觀經濟環境：**
+    *   黃金表現良好，受益於宏觀條件。
+    *   加密貨幣風險較股票高，對流動性狀況更敏感。
+2.  **比特幣 vs. 股票：**
+    *   比特幣兌標普 500 指數的表現停滯不前。
+    *   比特幣的弱勢與上次量化緊縮結束時類似。
+3.  **本輪週期的獨特性：**
+    *   缺乏過去週期中的狂熱階段，可能是由於貨幣政策的影響。
+    *   零售興趣低迷，類似於 2019 年的市場頂部。
+4.  **熊市與牛市的判斷：**
+    *   若比特幣收盤價持續低於 50 週移動平均線，可能確認熊市。
+    *   死亡交叉可能預示著新的反彈機會。
+5.  **下跌幅度預測：**
+    *   若未出現狂熱階段，可能下跌約 50% 至 60-70k 美元。
+    *   若出現更為狂熱的行情，可能下跌約 70%。
+6.  **聯準會政策的影響：**
+    *   量化寬鬆結束可能導致 Altcoins 相對比特幣的表現停止下滑。
+    *   量化寬鬆開始時，比特幣可能先下跌後上漲。
+7. **Altcoin市場分析**
+ *   持續貶值對比特幣
+ *   要真正出現持久的山寨幣季節，需要比特幣大幅反彈。
+ *   山寨幣並非長期投資，而比特幣才是。
+ *   現在還沒有形成主流山寨幣季。
+
+**B. 投資策略**
+
+1.  **動態 DCA (Dynamic Dollar-Cost Averaging) 策略：**
+    *   根據風險指標調整投資金額，在風險較低時增加投資，風險較高時減少投資。
+2.  **風險指標：**
+    *   關注風險指標，低於 0.2 時是較好的買入時機。
+3.  **賣出策略：**
+    *   當風險指標達到 0.6 或 0.7 以上時，考慮賣出部分倉位。
+    *   在年底前出售一些比特幣，為明年的熊市做準備。
+4.  **長期持有：**
+    *   始終持有約三分之一的比特幣倉位，以應對市場的不確定性。
+
+**C. 宏觀經濟與市場**
+
+1.  **AI 泡沫：**
+    *   即使已知存在泡沫，也難以預測其持續時間和盈利方式。
+    *   AI 提高效率，但也可能導致失業。
+2.  **政府停擺的影響：**
+    *   聯邦工人休假，流動性減少。
+    *   可能影響航空旅行等行業。
+3.  **市場趨勢：**
+    *   股票市場通常會上漲，下跌需要理由。
+    *   上漲的通貨膨脹率和失業率是股票市場下跌的兩個主要原因。
+4.  **失業率：**
+    *   關注全國範圍內失業率的上升，而非局部地區。
+
+**D. 對加密貨幣投資者的建議**
+
+1.  **從錯誤中學習：**
+    *   從 Altcoins 投資的錯誤中學習，並吸取教訓。
+    *   不要因為幾次糟糕的投資而失去對投資的信心。
+2.  **專注於長期投資：**
+    *   專注於長期持有的項目。
+3.  **價值評估：**
+    *   以聰為單位評估你的投資組合。
+4. **Altcoins**
+   * 較小規模的替代幣為較短期的投資。
+   * 如果你將資金投入一再對比特幣造成損害的另類幣，你就要捫心自問，這真的合理嗎？
+
+**III. 重要的圖表分析指標**
+
+*   **比特幣主導地位：** 監測比特幣在加密貨幣市場中的主導地位，以了解資金流向。
+*   **總加密貨幣市值：** 用於查看週期中的大局，以了解是否被低估或高估。
+*   **風險水準：** 風險水準在0.2以下時買入，大於0.6或0.7時賣出。
+
+這個整理希望能幫助您更好地理解文稿的內容。如果您有任何其他問題或需要進一步的協助，請隨時告訴我！
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
+<summary>325. [2025-11-15] Crypto Banks Are the Next Big Thing｜ether.fi CEO Mike Silagadze｜Bonnie Blockchain</summary><br>
+
+<a href="https://www.youtube.com/watch?v=8XLcbx-AE8c" target="_blank">
+    <img src="https://img.youtube.com/vi/8XLcbx-AE8c/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# Crypto Banks Are the Next Big Thing｜ether.fi CEO Mike Silagadze｜Bonnie Blockchain
+
+好的，我將這段文稿整理如下，主要分為幾個部分，並提取重點：
+
+**主旨：EtherFi – 一個非託管的加密新銀行解決方案**
+
+這段對話主要圍繞 EtherFi 這個項目展開，它旨在建立一個完整的端到端替代傳統銀行服務的加密貨幣解決方案。EtherFi 是一個非託管平台，用戶可以保持對自己資產的控制，同時享受類似銀行提供的服務，如支票帳戶、投資帳戶和信用卡。
+
+**1. EtherFi 的核心概念：**
+
+*   **非託管:** 用戶持有自己的加密資產，EtherFi 無法拿走或凍結用戶的資金。
+*   **替代傳統銀行:** 提供類似銀行的功能，例如儲蓄、投資、支付等。
+*   **更高回報，更低費用:** 相較於傳統銀行，提供更高的利息和現金回饋，以及更低的費用。
+*   **全球可用性:** 特別適合美國以外的市場，如巴西和台灣，這些地區的人們希望擁有虛擬的美元銀行帳戶。
+
+**2. EtherFi 的運作模式：**
+
+*   **智能合約:** 用戶的加密資產儲存在智能合約中，而不是由 EtherFi 直接控制。
+*   **盈利模式:**
+    *   信用卡交易分成：商家向 Visa 支付交易費用，Visa 再將一部分分給 EtherFi。
+    *   DeFi策略金庫費用：對使用 DeFi 策略金庫的用戶收取費用。
+*   **信用卡特性:**
+    *   實質是信用卡，但所有貸款都有抵押。
+    *   未來目標是提供無抵押貸款。
+*   **驗證身份:** 通過 KYC 驗證用戶身份，收集收入、消費習慣和鏈上資產等信息。
+
+**3. EtherFi 相較於其他加密貨幣卡的優勢：**
+
+*   **自託管:** 用戶始終控制自己的資產，避免被交易所凍結帳戶的風險。
+*   **簡化流程:** 簡化了使用加密貨幣的流程，可以直接使用加密資產進行支付。
+*   **高額現金回饋:** 提供高達 3% 的現金回饋，且沒有上限。
+*   **高交易限額:** 允許用戶進行大額交易。
+
+**4. EtherFi 的未來展望：**
+
+*   **繞過傳統支付網路:** 長期目標是繞過 Visa 和 Mastercard 等傳統支付網路，直接使用加密資產向商家付款。
+*   **驗證鏈下資產:** 未來可能驗證用戶的鏈下資產（例如股票），以提供更好的信貸服務。
+*   **取代 SWIFT:** 隨著穩定幣的普及，最終可能取代 SWIFT，實現更快速、更便宜的跨境支付。
+
+**5. 關於穩定幣的討論：**
+
+*   **發行穩定幣的盈利能力:** 認為穩定幣發行商的利潤可能會很低，因為用戶期望他們將大部分收益回饋給用戶。
+*   **大型企業發行穩定幣的可能性:** 大型零售企業（例如 Amazon）可能不會發行自己的穩定幣，因為他們可能無法吸引用戶在他們的生態系統中持有餘額。
+
+**6. 傳統金融體系的弊端 (對 Mike 的看法):**
+
+*   **合規部門監控用戶信息:** 銀行會監控用戶在網上的信息，如果用戶有負面新聞，可能會關閉其帳戶。
+*   **隨意凍結用戶資產:** 銀行可能會隨意凍結用戶資產，並將其用於投機。
+*   **KYC/AML法規的有效性:** KYC和AML法規並不能有效阻止壞人利用金融體系，反而增加了普通人的負擔。
+
+**7. 社群福利：**
+
+*   **$25 贈金:** 使用特定鏈接註冊 EtherFi 可獲得 $25 贈金。
+*   **黃金卡計劃:**  有機會獲得 EtherFi 黃金卡，享受 4% 現金回饋，以及其他獨家福利。
+*   **風險提示:** 提醒用戶 DeFi 產品存在風險，應謹慎投資。
+
+**總結:**
+
+EtherFi 是一個有潛力的項目，旨在通過區塊鏈技術和加密貨幣，建立一個更透明、更公平、更自由的金融體系。它提供了一種替代傳統銀行服務的方案，使用戶能夠更好地控制自己的資產，並享受更高的回報。
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
+<summary>324. [2025-11-17] Gold Hits New Highs — Our Obsession Explained | Bonnie Blockchain</summary><br>
+
+<a href="https://www.youtube.com/watch?v=t_xQ60FhSLE" target="_blank">
+    <img src="https://img.youtube.com/vi/t_xQ60FhSLE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# Gold Hits New Highs — Our Obsession Explained | Bonnie Blockchain
+
+
+
+---
+
+</details>
+
+<details>
+<summary>323. [2025-11-18] McKinsey 2025: 13 AI Techs Reshaping Global Wealth. |  Bonnie Blockchain</summary><br>
+
+<a href="https://www.youtube.com/watch?v=M-Wy-N3tVnQ" target="_blank">
+    <img src="https://img.youtube.com/vi/M-Wy-N3tVnQ/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# McKinsey 2025: 13 AI Techs Reshaping Global Wealth. |  Bonnie Blockchain
+
+
+
+---
+
+</details>
+
+<details>
+<summary>322. [2025-11-22] What is a cryptocurrency cold wallet? With so many Ledger options, how do you choose? The most co...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=hyaDs2_nDss" target="_blank">
+    <img src="https://img.youtube.com/vi/hyaDs2_nDss/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# What is a cryptocurrency cold wallet? With so many Ledger options, how do you choose? The most co...
+
+
+
+---
+
+</details>
+
+<details>
+<summary>321. [2025-11-24] nside MSTR’s Playbook: How Strategy Really Bets on Bitcoin │Jeff Walton │BonnieBlockchain</summary><br>
+
+<a href="https://www.youtube.com/watch?v=g6FKwdppPAQ" target="_blank">
+    <img src="https://img.youtube.com/vi/g6FKwdppPAQ/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# nside MSTR’s Playbook: How Strategy Really Bets on Bitcoin │Jeff Walton │BonnieBlockchain
+
+
+
+---
+
+</details>
+
+<details>
 <summary>320. [2025-11-09] 比特幣元老押注2萬5千顆！Adam Back</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7meu-32aBsg" target="_blank">
