@@ -1,4 +1,40 @@
 <details>
+<summary>331. [2025-12-12] The 2025 Global Wealth Report reveals shocking secrets! Does wealth depend on your nationality? T...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=V_fV_g7Isy4" target="_blank">
+    <img src="https://img.youtube.com/vi/V_fV_g7Isy4/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# The 2025 Global Wealth Report reveals shocking secrets! Does wealth depend on your nationality? T...
+
+
+
+---
+
+</details>
+
+<details>
+<summary>330. [2025-12-13] 幣安一姐：你對世界的理解，決定你的命運｜關於幣安、CZ 趙長鵬，還有那些你沒聽過的故事</summary><br>
+
+<a href="https://www.youtube.com/watch?v=PTvYq0-PIY0" target="_blank">
+    <img src="https://img.youtube.com/vi/PTvYq0-PIY0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# 幣安一姐：你對世界的理解，決定你的命運｜關於幣安、CZ 趙長鵬，還有那些你沒聽過的故事
+
+
+
+---
+
+</details>
+
+<details>
 <summary>329. [2025-12-09] 38兆美債撐不住了？華爾街大神警告：風暴即將引爆！</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aE2inRgf2XI" target="_blank">
