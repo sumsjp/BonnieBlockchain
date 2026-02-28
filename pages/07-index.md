@@ -1,4 +1,22 @@
 <details>
+<summary>352. ADA創辦人：美國將有一億人失業！AI 將會引發革命！金融體制將被推翻！Charles Hoskinson</summary><br>
+
+<a href="https://www.youtube.com/watch?v=Hzm5zYsRqNE" target="_blank">
+    <img src="https://img.youtube.com/vi/Hzm5zYsRqNE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# ADA創辦人：美國將有一億人失業！AI 將會引發革命！金融體制將被推翻！Charles Hoskinson
+
+
+
+---
+
+</details>
+
+<details>
 <summary>351. [2026-02-26] 你其實沒那麼有錢！各年齡平均資產最新數據，90％的人都不及格？</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ynNCLeUMHEg" target="_blank">
