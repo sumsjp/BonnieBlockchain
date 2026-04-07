@@ -1,8 +1,8 @@
-# Bonnie Blockchain (2026-04-03)
+# Bonnie Blockchain (2026-04-07)
 
 ---
 
-- [0351~0364](pages/07-index.md)
+- [0351~0365](pages/07-index.md)
 - [0301~0350](pages/06-index.md)
 - [0251~0300](pages/05-index.md)
 - [0201~0250](pages/04-index.md)
