@@ -1,4 +1,22 @@
 <details>
+<summary>367. [2026-04-15] Economist: Bitcoin Will Go to Zero! What is the Real Value Behind BTC? [Bonnie Blockchain]</summary><br>
+
+<a href="https://www.youtube.com/watch?v=4vJfhIwbf1M" target="_blank">
+    <img src="https://img.youtube.com/vi/4vJfhIwbf1M/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# Economist: Bitcoin Will Go to Zero! What is the Real Value Behind BTC? [Bonnie Blockchain]
+
+
+
+---
+
+</details>
+
+<details>
 <summary>366. [2026-04-12] Six signs that you are a hidden millionaire! [Bonnie Blockchain]</summary><br>
 
 <a href="https://www.youtube.com/watch?v=UVkAatvYR30" target="_blank">
