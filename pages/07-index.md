@@ -1,4 +1,22 @@
 <details>
+<summary>368. [2026-04-17] 努力好像也沒用？各世代買房、生活成本、股市一比較之後，都沈默了...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=FuD8zUDRdzw" target="_blank">
+    <img src="https://img.youtube.com/vi/FuD8zUDRdzw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+[all docs](https://github.com/sumsjp/BonnieBlockchain)
+
+# 努力好像也沒用？各世代買房、生活成本、股市一比較之後，都沈默了...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>367. [2026-04-15] Economist: Bitcoin Will Go to Zero! What is the Real Value Behind BTC? [Bonnie Blockchain]</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4vJfhIwbf1M" target="_blank">
